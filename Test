@@ -1,0 +1,713 @@
+<html lang="en" data-useragent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" style="position: static; zoom: 1; overflow: initial;"><head>
+		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<link rel="icon" type="image/x-icon" href="/common/images/frontline/favicons/favicon.ico">    <script type="text/javascript" src="/common/js/Teams.js?last_mod=1285002647058"></script>
+    <script type="text/javascript" src="/common/js/teams-navigation.js?last_mod=12850026470649"></script>
+    <script type="text/javascript" src="/common/js/rcMenu.js?last_mod=1285002647003"></script>
+    <script type="text/javascript" src="/common/js/resizesensor.js?last_mod=1285002647258"></script>
+    <script type="text/javascript" src="/common/js/StudentTranscript.js?last_mod=1285002647003"></script>
+    <script type="text/javascript" src="/common/js/accountSelector.js?last_mod=1285002647008"></script>
+    <script type="text/javascript" src="/common/js/NodeWrapper.js?last_mod=1285002647003"></script>
+    <script type="text/javascript" src="/common/js/TeamsTest.js?last_mod=1285002647003"></script>
+    <script type="text/javascript" src="/common/js/scrollsorttable.js?last_mod=12850026472652"></script>
+    <script type="text/javascript" src="/common/js/smartgui.js?last_mod=1285002647004"></script>
+    <script type="text/javascript" src="/common/js/SectionGrading.js?last_mod=1285002647019"></script>
+    <script type="text/javascript" src="/common/js/focus.js?last_mod=1285002647004"></script>
+    <script type="text/javascript" src="/common/js/calendar.js?last_mod=1285002647004"></script>
+    <script type="text/javascript" src="/common/js/StudentListOfTranscriptRecordsObjDef.js?last_mod=1285002647003"></script>
+    <script type="text/javascript" src="/common/js/eventCalendar.js?last_mod=1285002647003"></script>
+    <script type="text/javascript" src="/common/js/jsonrpc.js?last_mod=1285002647003"></script>
+    <script type="text/javascript" src="/common/js/syncscroll.js?last_mod=1285002647004"></script>
+    <script type="text/javascript" src="/common/js/ComboBox.js?last_mod=1285002647023"></script>
+    <script type="text/javascript" src="/common/js/dom-drag.js?last_mod=1285002647009"></script>
+    <script type="text/javascript" src="/common/js/tree_format.js?last_mod=1285002647006"></script>
+    <script type="text/javascript" src="/common/js/cooltreepro.js?last_mod=12850026470168"></script>
+    <script type="text/javascript" src="/common/js/PositionSelector.js?last_mod=1285002647003"></script>
+    <script type="text/javascript" src="/common/js/tabControl.js?last_mod=1285002647003"></script>
+    <script type="text/javascript" src="/common/js/Hover.js?last_mod=1285002647003"></script>
+    <script type="text/javascript" src="/common/js/xgrid.js?last_mod=1285002647170"></script>
+    <script type="text/javascript" src="/common/js/ListBox.js?last_mod=1285002647003"></script>
+    <script type="text/javascript" src="/common/js/debug.js?last_mod=1285002647003"></script>
+    <script type="text/javascript" src="/common/js/simpletable.js?last_mod=1285002647003"></script>
+    <script type="text/javascript" src="/common/js/hotkey.js?last_mod=1285002647003"></script>
+    <script type="text/javascript" src="/common/js/MultiSelectTable.js?last_mod=1285002647003"></script>
+    <script type="text/javascript" src="/common/js/menuDropdown.js?last_mod=1285002647003"></script>
+    <script type="text/javascript" src="/common/js/toggler.js?last_mod=1285002647003"></script>
+    <script type="text/javascript" src="/common/js/columnsConfigurator.js?last_mod=1285002647025"></script><script src="/common/js/yui/yahoo-dom-event.js"></script><script src="/common/js/yui/animation-min.js"></script><script src="/common/js/yui/dragdrop-min.js"></script><link rel="stylesheet" type="text/css" href="/common/css/columnsConfigurator.css">
+    <script type="text/javascript" src="/common/js/jquery/jquery.js?last_mod=1285002647004"></script>
+    <script type="text/javascript" src="/common/js/jquery/jquery-ui.min.js?last_mod=1285002647006"></script>
+    <script type="text/javascript" src="/common/js/jquery/jquery.cookie.js?last_mod=1285002647004"></script>
+    <script type="text/javascript" src="/common/js/jquery/jquery.hotkeys.js?last_mod=1285002647004"></script>
+    <script type="text/javascript" src="/common/js/jquery/jquery.teams-util.js?last_mod=1285002647006"></script>
+    <script type="text/javascript" src="/common/js/jquery/jquery.throttle.debounce.min.js?last_mod=1285002647005"></script>
+    <script type="text/javascript" src="/common/js/jquery/jquery.mousewheel.min.js?last_mod=1285002647006"></script>
+    <script type="text/javascript" src="/common/js/jquery/jquery.selectmultiple.js?last_mod=1285002647012"></script>
+    <script type="text/javascript" src="/common/js/jquery/jquery.quicksearch.js?last_mod=1285002647006"></script>
+    <script type="text/javascript" src="/common/js/jquery/jquery.toTop.min.js?last_mod=1285002647006"></script>
+    <script type="text/javascript" src="/common/js/workbench/teams-workbench.js?last_mod=1285002647049"></script>
+    <script type="text/javascript" src="/common/js/blockui/blockui.min.js?last_mod=1285002647006"></script>
+    <script type="text/javascript" src="/common/js/blockui/teams-blockui.js?last_mod=1285002647021"></script>
+    <script type="text/javascript" src="/common/js/payeezy_v3.2.js?last_mod=1285002640055"></script>
+    <script type="text/javascript" src="/common/js/GridTag.js?last_mod=2"></script>
+    <script type="text/javascript" src="/common/js/time.js?last_mod=1285002647004"></script>
+    <script type="text/javascript" src="/common/js/sniffer.js?last_mod=1285002647007"></script>
+    <script type="text/javascript" src="/common/js/Mock.js?last_mod=1285002647003"></script>
+    <script type="text/javascript" src="/common/js/StudentGrading.js?last_mod=1285002647011"></script>
+    <script type="text/javascript" src="/common/js/stringbuilder.js?last_mod=1285002647003"></script>
+    <script type="text/javascript" src="/common/js/htmlarea.js?last_mod=1285002647004"></script><script src="/common/js/htmlAreaDialog.js"></script><script src="/common/js/htmlAreaPopupwin.js"></script><script src="/common/js/htmlAreaEnglish.js"></script><style type="text/css">@import url(/common/js/../css/htmlarea.css);</style>
+    <script type="text/javascript" src="/common/js/htmlAreaEnglish.js?last_mod=1285002647003"></script>
+    <script type="text/javascript" src="/common/js/htmlAreaDialog.js?last_mod=1285002647003"></script>
+    <script type="text/javascript" src="/common/js/htmlAreaPopupwin.js?last_mod=1285002647003"></script>
+    <script type="text/javascript" src="/common/js/udm-custom.js?last_mod=1285002647003"></script>
+    <script type="text/javascript" src="/common/js/udm-control.js?last_mod=1285002647004"></script>
+    <script type="text/javascript" src="/common/js/udm-mod-keyboard.js?last_mod=1285002647003"></script>
+    <script type="text/javascript" src="/common/js/udm-dom.js?last_mod=1285002647003"></script>
+    <script type="text/javascript" src="/common/js/lang/calendar-en.js?last_mod=1285002647003"></script>
+    <script type="text/javascript" src="/common/js/webSafeColorPicker.js?last_mod=1285002647004"></script>
+    <script type="text/javascript" src="/common/js/browser-zoom-detect.js?last_mod=1285002647004"></script>
+    <script type="text/javascript" src="/common/js/teams-components-fix.js?last_mod=1285002641036"></script>
+    <script type="text/javascript" src="/common/js/hidden-combo-width-fix.js?last_mod=1285002647004"></script>
+    <script type="text/javascript" src="/common/js/global-hooks.js?last_mod=1285002647013"></script>
+    <script type="text/javascript" src="/common/js/myWorkflowSummaryDashboardWidget.js?last_mod=3"></script>
+    <script type="text/javascript" src="/common/js/navbar.js?last_mod=7"></script>
+    <script type="text/javascript" src="/common/js/workbench/jquery.autocomplete.js?last_mod=1285002647007"></script>
+    <script type="text/javascript" src="/common/js/cooltreepro-filter.js?last_mod=1285002647005"></script>
+    <script type="text/javascript" src="/common/js/TeamsAssistiveTechnology.js?last_mod=1285002647004"></script>
+    <script type="text/javascript" src="/common/js/typeahead.js?last_mod=1285002647004"></script>
+    <script type="text/javascript" src="/common/js/sste/colresizable.js?last_mod=1467036088033"></script><style type="text/css">  /*.JColResizer{table-layout:fixed;} .JColResizer > tbody > tr > td, .JColResizer > tbody > tr > th{overflow:hidden; padding-left:0!important; padding-right:0!important;} */ .JCLRgrips{ height:0px; position:relative;} .JCLRgrip{margin-left:-8px; position:absolute; } .JCLRgrip .JColResizer{position:absolute;background-color:red;filter:alpha(opacity=1);opacity:0;width:8px;height:100%;cursor: col-resize;top:0px} .JCLRLastGrip{position:absolute; width:1px; } .JCLRgripDrag{ border-right:1px dotted black;	} .JCLRFlex{width:auto!important;} .JCLRgrip.JCLRdisabledGrip .JColResizer{cursor:default; display:none;}</style>
+    <script type="text/javascript" src="/common/js/sste/dragtable.js?last_mod=1467036088037"></script>
+    <script type="text/javascript" src="/common/js/sste/dd-menu.js?last_mod=1467036088039"></script>
+    <script type="text/javascript" src="/common/js/sste/moment.min.js?last_mod=1467036088024"></script>
+    <script type="text/javascript" src="/common/js/sste/watch.min.js?last_mod=1467036088024"></script>
+    <script type="text/javascript" src="/common/js/tabs/tabs-more.js?last_mod=1489652666104"></script>
+    <script type="text/javascript" src="/common/js/jquery/jquery-extresizable.min.js?last_mod=1520037019137"></script>
+    <script type="text/javascript" src="/common/js/split-pane.js?last_mod=1520037019147"></script>
+    <script type="text/javascript" src="/common/js/dropzone.js?last_mod=1525763964005"></script>
+    <script type="text/javascript" src="/common/js/teams-ddattach.js?last_mod=1525763964042"></script>
+    <script type="text/javascript" src="/common/js/ckeditor/ckeditor.js?last_mod=2"></script><style>.cke{visibility:hidden;}</style>
+
+<script type="text/javascript">
+
+function releaseAllEvents() {
+    var el;
+    var val = document.getElementsByTagName("*");
+    for (var d = val.length;d--;) {
+        el = val[d];
+        var a = el.attributes, i, l, n;
+			  if (a) {
+			    l = a.length;
+			    for (i = 0; i < l; i += 1) {
+			      n = a[i].name;
+			      if (typeof el[n] === 'function') {
+			        el[n] = null;
+			      }
+			    }
+			  }
+    }
+    el = null;
+
+}
+
+var ie = document.all;
+function initAll() {
+    teams.debug('initJSON()');
+    initJSON();    defaultStatus=document.title;
+    teams.debug('comboBoxInit()');
+    if (window.comboBoxInit) {
+        comboBoxInit();
+    }
+    teams.debug('listboxInit()');
+    if (window.listboxInit) {
+        listboxInit();
+    }
+    teams.debug('menuBarInit()');
+    if (window.menuBarInit) {
+        menuBarInit();
+    }
+    teams.debug('hotKeyInit()');
+    if (window.hotKeyInit) {
+        hotKeyInit();
+    }
+    teams.debug('eventCalendarInit()');
+    if (window.eventCalendarInit) {
+        eventCalendarInit();
+    }
+    teams.debug('initAllXgrids()');
+    if (xgrid) {
+        xgrid.initAllXgrids();
+    }
+    teams.debug('onInit()');
+    if (window.onInit) {
+        onInit();
+    }
+    teams.debug('startCountdown()');
+    if (window.Autosignout) {
+         window.autosignout = new Autosignout(1800,false);
+    }
+
+
+    teams.debug('focusInit()');
+    if (window.focusInit) {
+        focusInit();
+    }
+    teams.debug('resizeOnLoad()');
+    resizeOnLoad();
+    teams.debug('initRCMenus()');
+    if (window.initRCMenus) {
+        initRCMenus();
+    }
+    document.initMultiSelectTable = initMultiSelectTable;
+    document.initMultiSelectTable();
+    registerHotKey(true,'G');
+    registerHotKey(true,'D');
+    registerHotKey(true,'U');
+    registerHotKey(true,'M');
+
+    teams.debug('initSmartGui...');
+    if((typeof remote != 'undefined') && (typeof remote.setupSmartGuiObjects != 'undefined'))
+    {
+      clientObjectManager = new ClientObjectManager();
+    }
+    teams.debug('finished initAll()');
+
+    if (typeof logLatency != 'undefined') {
+      logLatency();
+    }}
+
+function resizeOnLoad() {
+    var isIE = ( (navigator.userAgent.toLowerCase().indexOf("msie") != -1) && (navigator.userAgent.toLowerCase().indexOf("opera") == -1) );
+    if (isIE) {       // to correct for ie 'moving' things
+        function pause() {    // actually resizes then pauses //
+            window.resizeBy(-1, 0);
+            myTimer=setTimeout("whatToDo()",1);
+        }
+    }
+}
+
+function whatToDo() {   // resizes back to original size //
+    window.resizeBy(1, 0);
+}
+
+function toggleSubNav() {
+    toggleStyleDisplay( subNavigationTab );
+    toggleStyleDisplay( subNavigation );
+    repositionSubNavToggle();
+}
+
+function repositionSubNavToggle() {
+    if ( subNavigationTab.currentStyle.display == "none" ) {
+        debug( "repositionSubNavToggle(): moving down" );
+        subNavToggle.style.posTop += 15;
+    } else {
+        debug( "repositionSubNavToggle(): moving up" );
+        subNavToggle.style.posTop -= 15;
+    }
+}
+
+function toggleStyleDisplay( node ) {
+    debug( "toggleStyleDisplay( node{ id:" + node.id + "} )" );
+    debug( node.currentStyle.display );
+    if ( node.currentStyle.display == "none" ) {
+        node.runtimeStyle.display = "block";
+    } else {
+        node.runtimeStyle.display = "none";
+    }
+}
+
+DEBUG = "debug";
+WARN = "warn";
+
+DEBUG_LEVEL = ""
+
+function debug( message ) {
+    switch ( DEBUG_LEVEL ) {
+    case DEBUG:
+        alert( "DEBUG: " + message );
+        break;
+    }
+}
+
+function initJSON() {
+    try {
+        jsonrpc = new JSONRpcClient("/selfserve/JSON-RPC");
+        remote = jsonrpc.SmartPage;
+        errorHandler = jsonrpc.errorHandler;
+    } catch (e) {
+        alert(e);
+    }
+}
+</script>
+<!-- Styles -->
+<link rel="stylesheet" href="https://sidekick.uitools.frontlineeducation.com/sidekick.css" media="screen" charset="utf-8">  <link href="/common/css/sidekick/teams-sidekick.css?last_mod=1285002647031" rel="stylesheet" type="text/css" media="screen">  <link href="/common/css/Teams.css?last_mod=1285002658038" rel="stylesheet" type="text/css" media="screen">  <link href="/common/css/grading.css?last_mod=1285002658034" rel="stylesheet" type="text/css" media="screen">  <link href="/common/css/printStyle.css?last_mod=1285002647013" rel="stylesheet" type="text/css" media="screen">  <link href="/common/css/TeamsPrint.css?last_mod=1285002647022" rel="stylesheet" type="text/css" media="print">  <link href="/common/css/htmlarea.css?last_mod=1285002647003" rel="stylesheet" type="text/css" media="screen">  <link href="/common/css/udm-style.css?last_mod=1285002647003" rel="stylesheet" type="text/css" media="screen">  <link href="/common/css/systemIcons.css?last_mod=1427728373" rel="stylesheet" type="text/css" media="screen">  <link href="/common/css/teams-base.css?last_mod=1427728382" rel="stylesheet" type="text/css" media="screen">  <link href="/common/css/teams-responsive.css?last_mod=1427728373" rel="stylesheet" type="text/css" media="screen">  <link href="/common/css/font-awesome/css/font-awesome.min.css?last_mod=1427728372" rel="stylesheet" type="text/css" media="screen">  <link href="/common/css/materialdesignicons/css/materialdesignicons.min.css?last_mod=1427728372" rel="stylesheet" type="text/css" media="screen">  <link href="/common/css/teams-clean.css?last_mod=1427728449" rel="stylesheet" type="text/css" media="screen">  <link href="/common/css/jquery/jquery-ui.css?last_mod=1285002647004" rel="stylesheet" type="text/css" media="screen">  <link href="/common/css/jquery/jquery.selectmultiple.css?last_mod=1285002647008" rel="stylesheet" type="text/css" media="screen">  <link href="/common/css/workbench/jquery.autocomplete.css?last_mod=1285002647004" rel="stylesheet" type="text/css" media="screen">  <link href="/common/css/workbench/menu-search.css?last_mod=1285002647005" rel="stylesheet" type="text/css" media="screen">  <link href="/common/css/grid/simplegrid.css?last_mod=1285002647005" rel="stylesheet" type="text/css" media="screen">  <link href="/common/css/workbench/teams-workbench.css?last_mod=1285002647021" rel="stylesheet" type="text/css" media="screen">  <link href="/common/css/cooltreepro-spacing.css?last_mod=1285002647006" rel="stylesheet" type="text/css" media="screen">  <link href="/common/css/sste.css?last_mod=1467036088125" rel="stylesheet" type="text/css" media="screen">  <link href="/common/css/sst-icons.css?last_mod=1467036088054" rel="stylesheet" type="text/css" media="screen">  <link href="/common/css/dd-menu.css?last_mod=1467036088044" rel="stylesheet" type="text/css" media="screen">  <link href="/common/css/split-pane.css?last_mod=1520037019143" rel="stylesheet" type="text/css" media="screen">  <link href="/common/css/dropzone.css?last_mod=1525763964004" rel="stylesheet" type="text/css" media="screen">  <link href="/common/css/teams-ddattach.css?last_mod=1525763964015" rel="stylesheet" type="text/css" media="screen">  <link href="/common/css/teams-clean.css?last_mod=1427728449" rel="stylesheet" type="text/css" media="screen">  <link href="/common/css/teams-frontline.css?last_mod=1285002647024" rel="stylesheet" type="text/css" media="screen"> <style type="text/css"> body { background-color: #D8EEEE }.listbox-hilite-selected{background-color:#AAD4FF;}.listbox-hilite{background-color:#AAD4FF;} </style> <title>Student Progress Grades - </title>
+<!-- BEGIN TEMPLATE: headerClose -->  <style type="text/css">@font-face { font-family: 'FL-Icons'; src: url('https://sidekick.uitools.frontlineeducation.com/font/FL-Icons.eot?#iefix') format('embedded-opentype'), url('https://sidekick.uitools.frontlineeducation.com/font/FL-Icons.woff') format('woff'), url('https://sidekick.uitools.frontlineeducation.com/font/FL-Icons.ttf') format('truetype'), url('https://sidekick.uitools.frontlineeducation.com/font/FL-Icons.svg#FL-Icons') format('svg'); font-weight: normal; font-style: normal; }</style><style type="text/css">@font-face { font-family: 'Open Sans'; src: url('https://sidekick.uitools.frontlineeducation.com/font/opensans-regular-webfont.eot?#iefix') format('embedded-opentype'), url('https://sidekick.uitools.frontlineeducation.com/font/opensans-regular-webfont.woff') format('woff'), url('https://sidekick.uitools.frontlineeducation.com/font/opensans-regular-webfont.ttf') format('truetype'), url('https://sidekick.uitools.frontlineeducation.com/font/opensans-regular-webfont.svg#open_sansregular') format('svg'); font-weight: 400; font-style: normal; }@font-face { font-family: 'Open Sans'; src: url('https://sidekick.uitools.frontlineeducation.com/font/opensans-semibold-webfont.eot?#iefix') format('embedded-opentype'), url('https://sidekick.uitools.frontlineeducation.com/font/opensans-semibold-webfont.woff') format('woff'), url('https://sidekick.uitools.frontlineeducation.com/font/opensans-semibold-webfont.ttf') format('truetype'), url('https://sidekick.uitools.frontlineeducation.com/font/opensans-semibold-webfont.svg#open_sanssemibold') format('svg'); font-weight: 600; font-style: normal; }@font-face { font-family: 'Open Sans'; src: url('https://sidekick.uitools.frontlineeducation.com/font/opensans-bold-webfont.eot?#iefix') format('embedded-opentype'), url('https://sidekick.uitools.frontlineeducation.com/font/opensans-bold-webfont.woff') format('woff'), url('https://sidekick.uitools.frontlineeducation.com/font/opensans-bold-webfont.ttf') format('truetype'), url('https://sidekick.uitools.frontlineeducation.com/font/opensans-bold-webfont.svg#open_sansbold') format('svg'); font-weight: 700; font-style: normal; }</style><style type="text/css" media="print">.sidekick { display: none !important; } .sidekick-wrapped-application {	margin: 0 !important } </style></head><!-- END TEMPLATE: headerClose --><!-- BEGIN TEMPLATE: openBodyTag --><body onload="initAll();this.focus();initGrading();" onunload="releaseAllEvents();" class="sidekick-wrapped-application sk-screen-large-lte sk-screen-small-gte sk-adjust-menu-columns sk-auto-collapse-nav-gte sidekick-wrapped-application sidekick-wrapped-application-nonav sk-screen-medium-lte sk-screen-small-lte sk-screen-small sk-auto-collapse-nav-lte sk-auto-collapse-nav" style="margin-top: 67px;"><div class="sidekick sk-header sk-header-initialized"><div class="sk--header-content" role="menubar"><div context-store="idm-data" class="sidekick sk-announcements"></div><div context-store="user-data" class="sidekick sk-impersonated-user sk-impersonated-user-initialized"><div context-store="sk-config" class="sidekick sk-skip-nav sk-skip-nav-initialized"><a class="sk--skip-nav-link" href="#">Skip to Main Content</a></div><div class="sk--viewing-as">viewing as</div><div class="sk--user-name">Aiden McCoy </div></div><div context-store="app-switcher-data" role="menuitem" aria-haspopup="true" class="sidekick sk-app-switcher sk-no-click sk-app-switcher-initialized"><div context-store="sk-config" class="sidekick sk-skip-nav sk-skip-nav-initialized"><a class="sk--skip-nav-link" href="#">Skip to Main Content</a></div><button id="sk--app-switcher-title" class="app-title sk-tooltip-container" tabindex="-1" aria-controls="sk--app-switcher-menu" aria-pressed="false" aria-label="ERP &amp; SIS - Switch Apps" disabled="disabled" aria-disabled="true"><div class="sk--content" title="ERP &amp; SIS">ERP &amp; SIS</div><span content="Switch Apps" class="sidekick sk-tooltip sk-tip-pos-bottom sk-tooltip-initialized" style="left: 5px; margin-top: -3px;"><span class="sk-tip-chevron" style="left: 18px;"></span> <span class="sk-tip-content">Switch Apps</span></span></button><div id="sk--app-switcher-menu" class="sk--menu" role="menu" aria-hidden="true" aria-describedby="sk--app-switcher-instruction" tabindex="-1"><h3 id="sk--app-switcher-instruction" class="sk-instruction">Your Solutions</h3><ul class="sk--menulist"></ul></div></div><div context-store="org-switcher-data" role="menuitem" aria-haspopup="true" class="sidekick sk-org-switcher sk-no-click sk-org-switcher-initialized" style="display: inline-block; max-width: calc(64% - 296.41px);"><button id="sk--org-switcher-title" class="control sk-tooltip-container" aria-controls="sk--org-switcher-menu" aria-pressed="false" aria-label="Carrollton Farmers Branch ISD - Switch Organizations" tabindex="-1" disabled="disabled" aria-disabled="true"><div class="content" title="Carrollton Farmers Branch ISD">Carrollton Farmers Branch ISD</div><span content="Switch Organizations" class="sidekick sk-tooltip sk-tip-pos-bottom sk-tooltip-initialized" style="left: 5px; margin-top: -3px;"><span class="sk-tip-chevron" style="left: 18px;"></span> <span class="sk-tip-content">Switch Organizations</span></span></button><div id="sk--org-switcher-menu" class="menu" role="menu" aria-hidden="true" aria-describedby="sk--org-switcher-instruction" tabindex="-1" style="display: none;"><h3 id="sk--org-switcher-instruction" class="sk-instruction">Select an Organization</h3><div class="search"><div class="sk-input"><span class="sk--input-container fa-li-search-before"><input type="text" class="search-org" placeholder="Search" autocomplete="off"> </span><button type="button" tabindex="-1" class="ss-ctrl-clear fa-li-close sk-hidden" aria-label="clear input"></button></div></div><div class="menu-scroll"><ul class="menulist"></ul></div></div></div><div class="sk--impersonation-border-lr"></div><div class="sk--impersonation-border-b"></div><div class="sk--content-right"><div context-store="activity-indicator" class="sidekick sk-activity-indicator sk-hidden sk-activity-indicator-initialized"><a href="undefined" class="sk-tooltip-container"><span content="System Activity" class="sidekick sk-tooltip sk-tip-pos-bottom sk-tooltip-initialized" style="left: 5px; margin-top: -3px;"><span class="sk-tip-chevron" style="left: 18px;"></span> <span class="sk-tip-content">System Activity</span></span> <span class="sk--dots"><span class="sk--dot"></span> <span class="sk--dot"></span> <span class="sk--dot"></span></span></a></div><div context-store="search" class="sidekick sk-search sk-search-initialized" style="visibility: hidden;"><div class="sk-input"><span class="sk--input-container fa-li-search-before"><input class="search" type="text" value="" placeholder="Search" aria-label="Search" aria-expanded="false" aria-autocomplete="list" aria-owns="sk-search-results"> </span><button type="button" class="ss-ctrl-clear fa-li-close sk-hidden" aria-label="clear input"></button></div><div class="sk--menu"><h3 id="sk-search-results-title" class="sk-instruction">Search Results</h3><div class="sk--loader" role="presentation"><div fill="" class="sidekick sk-loader sk-fill-container sk-loader-initialized"><div class="sk-loading-container"><div class="sk-logo-spinner"><span class="sk-bar sk-bar-1"></span> <span class="sk-bar sk-bar-2"></span> <span class="sk-bar sk-bar-3"></span> <span class="sk-bar sk-bar-4"></span> <span class="sk-bar sk-bar-5"></span> <span class="sk-bar sk-bar-6"></span></div></div></div></div><div class="sk--search-content"></div></div></div><div context-store="help" role="menuitem" aria-haspopup="true" class="sidekick sk-help sk-help-initialized"><button id="sk--help-menu-title" class="control fa-li-question-circle-before sk-tooltip-container" aria-controls="sk--help-menu" aria-pressed="false" aria-label="Help Resources"><span content="Help Resources" class="sidekick sk-tooltip sk-tip-pos-bottom sk-tooltip-initialized" style="right: 5px; margin-top: -3px;"><span class="sk-tip-chevron" style="right: 18px;"></span> <span class="sk-tip-content">Help Resources</span></span></button><div id="sk--help-menu" class="menu" role="menu" aria-hidden="true" tabindex="-1"><h3 id="sk--help-menu-instruction" class="sk-instruction">Help Resources</h3><div class="help-org-contact sidekick sk-contact-org" context-store="current-org"></div><ul class="articles menulist" style="display: none;"></ul><ul class="blocks menulist" style="display: block;"><li><a role="menuitem" aria-selected="false" class="fa-li-info-circle" href="#">About ERP &amp; SIS</a></li></ul></div></div><div context-store="user-data" role="menuitem" aria-haspopup="true" class="sidekick sk-user-info sk-user-info-initialized" style="max-width: calc(36% - 166.731px);"><button id="sk--user-info-title" class="sk--control" aria-controls="sk--user-info-menu" aria-pressed="false" aria-label="Aiden McCoy " disabled=""><span class="sk--user-name fa-angle-down-after" title="Aiden McCoy ">Aiden McCoy </span> <span class="sk--current-role"></span></button><div id="sk--user-info-menu" class="sk--menu" role="menu" aria-hidden="true" aria-describedby="sk--user-info-instruction" tabindex="-1"><h3 id="sk--user-info-instruction" class="sk-instruction sk--fl-account-header">Your Frontline Account</h3><div class="sk--filter"><span class="fa-li-search-before"><input class="sk--roles-filter" type="text" value="" aria-label="Type to filter" placeholder="Type to filter"></span></div><ul class="sk--roles sk--menulist"></ul><ul class="sk--blocks sk--menulist"><li style="display: none;"><a class="sk--settings fa-li-settings" href="#" role="menuitem" aria-selected="false">Account Settings</a></li><li><a class="sk--logout fa-li-power" href="#" role="menuitem" aria-selected="false">Sign Out</a></li></ul></div></div><div context-store="notifications" class="sidekick sk-notifications"></div><button class="sk--impersonation-exit fa-li-close"></button></div></div></div><div context-store="idm" class="sidekick sk-unsupported-browser-alert"></div><div context-store="nav" class="sidekick sk-nav"></div><div context-store="pick-org-app-data" class="sidekick sk-pick-org-app"></div><div context-store="session-timeout" class="sidekick sk-session-timeout"></div><div class="sidekick sk-site-errors sk-site-errors-initialized"><div class="sk--content"><div class="sk--logo"></div><h2>Something went wrong.</h2><p>We don’t know what happened but something went wrong. Please wait a few minutes then try to sign in again.</p><div><a href="#" class="sk--sign-in-link">Sign In Again to Continue</a></div></div></div><!-- END TEMPLATE: openBodyTag --><script>TeamsBlockUI.blockPageLite();window.onerror=function(error){setTimeout(function(){TeamsBlockUI.unblockPage();},1)};</script><!-- BEGIN TEMPLATE: teamsBusy -->    <div class="teams_busy" id="busy_top">
+        <div class="spinner spMedium spWhite fa fa-spinner"></div>
+        <span id="busy_meter"></span>
+    </div><!-- END TEMPLATE: teamsBusy --><!-- END START HTML --><!-- BEGIN TEMPLATE: openCustomHeader -->	<style>body {margin-top: 67px; min-width: 1024px;}</style>
+    <table id="customHeaderElement" class="headerTable push-menu-toggle" width="100%" style="">
+    <tbody>
+    <tr><!-- END TEMPLATE: openCustomHeader --><!-- BEGIN TEMPLATE: pageDetailsSimple --><td id="pageDetailsSimpleCell" class="menuInfoCell locationDetailsSimpleCell">
+  <div class="pageTitle">Student Progress Grades</div>
+</td><!-- END TEMPLATE: pageDetailsSimple --><!-- BEGIN SYSTEM ICONS HTML --><!-- BEGIN TEMPLATE: teamsTools --><td id="teamsToolsCell" class="menuButtonCell"><a id="teamsToolsIcon" class="faButton fa fa-th-large" title="Tools" alt="Tools" href="#"></a></td><!-- END TEMPLATE: teamsTools --><!-- BEGIN TEMPLATE: teamsHelp --><td id="teamsHelpBarCell" class="menuButtonCell"><a id="teamsHelpBarIcon" title="Help" alt="Help" class="faButton fa fa-question-circle"></a></td><!-- END TEMPLATE: teamsHelp --><!-- END SYSTEM ICONS HTML --><!-- BEGIN TEMPLATE: teamsLogoBranding --><td id="teamsLogoBrandingCell">
+	<img src="/common/images/frontline/frontline-logo-md.png" alt="Frontline">
+</td><!-- END TEMPLATE: teamsLogoBranding --><!-- BEGIN TEMPLATE: closeCustomHeader -->    </tr>
+    </tbody>
+	</table><!-- END TEMPLATE: closeCustomHeader --><!-- BEGIN TEMPLATE: teamsSidekickJson --><style>#customHeaderElement{display:none;}</style><script id="teamsSidekickJson" type="application/json">{"userPersonName":"Aiden McCoy","external":true,"impersonation":false,"isHighVisibility":false,"districtName":"Carrollton Farmers Branch ISD","userMenusVersion":"508961-1605161051978","currentPageName":"PSSStudentGradingProgressView.jsp","env":{"color":"#C3002F","name":"Production","id":"CFBISD","textColor":"#ffffff"},"applicationName":"ERP & SIS"}</script><!-- END TEMPLATE: teamsSidekickJson --><!-- BEGIN TEMPLATE: pageTitleSK --><div id="pageTitleSK">Student Progress Grades</div><!-- END TEMPLATE: pageTitleSK --><script src="https://sidekick.uitools.frontlineeducation.com/sidekick.js" charset="utf-8"></script><script src="/common/js/sidekick/teams-sidekick.js?last_mod=1285002647078" charset="utf-8"></script><!--BEGIN INFO HEADER TAG --><div id="infoHeaderDiv" class="studentAttendance"><table id="defaultInfoHeader" class="infoHeaderTable">
+<tbody>
+<tr>
+<td>Local ID: 508961</td>
+<td>McCoy, Aiden Miles</td>
+<td colspan="1">05-12-2005</td>
+</tr>
+<tr>
+</tr>
+</tbody>
+</table>
+<!-- End of InfoHeaderTag() -->
+</div><!--END INFO HEADER TAG --><span class="label"></span><span class="label"></span><span class="label"></span><span class="label"></span><span class="label"></span><span class="label"></span><script>
+function initGrading() 
+{
+	initScroll();
+}
+
+function showNote(idKey)
+{
+	var noteDiv = document.getElementById('pssClassNote');
+	var htmlText = remote.getNote(idKey);
+	if (htmlText != null)
+	{
+		noteDiv.innerHTML = htmlText;
+		noteDiv.style.display = 'block';
+	}
+}
+
+function provideRowFunction(cellId, idKey)
+{
+	document.getElementById('gradeBookKey').value = idKey;
+	if (cellId != null && cellId.endsWith('td2'))
+	{
+		setActionForFormAndSubmit('PSSEmailTeacherAction.do');
+	}
+	else if (cellId != null && cellId.endsWith('td0'))
+	{
+		showNote(idKey);
+	}
+}
+
+function onGridCellClick(a)
+{
+	var addedSkillbook = remote.isAddedSkillbook();
+
+	var cellId = a.parentNode.id;
+	var idKey = a.id;
+	document.getElementById('gradeBookKey').value = idKey;
+	if (cellId != null && cellId.endsWith('td2'))
+	{
+		setActionForFormAndSubmit('PSSEmailTeacherAction.do');
+	}
+	else if (cellId != null && cellId.endsWith('td0'))
+	{
+		showNote(idKey);
+	}
+	else if (addedSkillbook && cellId != null && cellId.endsWith('td6'))
+	{
+		setActionForFormAndSubmit('PSSStudentSkillbookAction.do');
+	}
+	else
+	{
+		setActionForFormAndSubmit('PSSViewGradeBookEntriesAction.do');
+	}
+}
+</script>
+
+<style>
+	.studentGradingTopRight .tblHeaderGrading, .studentGradingBottomRight .tblHeaderGrading
+	{
+		width: 100px;
+	}
+	
+	div.studentGradingBottomLeft, div.studentGradingTopLeft
+	{
+		width: 490px;
+	}
+</style>
+
+<!-- Start of BodyTag.doStartTag() -->
+ <div id="containerDiv" class="container">
+<div id="pageMessageDiv"><div id="MsgBox" style="display:none;"><div class="message"><span class="error">System error occurred. Please try again. (<span id="dumpId"></span>)</span></div></div></div>
+<!-- End pageMessageDiv -->
+<div id="errMsgPop" class="hide" style="left:100px;top:100px;" tabindex="0"><div id="errMsgPopHandle" class="dragHandle">Unexpected Error<a class="close" onclick="winList['errMsgPop'].close()"><img src="/common/images/icons/close-white-24.png" alt="X"></a></div><div id="errMsgPopContent" class="dragContent"><div class="padded"><span class="error">System error occurred. Please try again. (<span id="jsonDumpId"></span>)</span></div></div></div><script language="JavaScript" type="text/javascript">Drag.init(document.getElementById("errMsgPopHandle"), document.getElementById("errMsgPop"),"hidePopup('errMsgPop')");</script>
+
+<div id="navigationElementsContainer" class="containerRelative">
+<div class="tabContainer" style="height: auto;">
+  <a href="javascript:TeamsBlockUI.blockPageLite(); setTimeout(function(){ window.location=&quot;ViewStudentAction.do&quot;}, 1);" class="tabs actionable" id="tabs-1_TAB">  <span id="1_TAB">Home</span>
+</a>
+
+  <a href="javascript:setSelectedIndexIdFromTable('table'); setActionForFormAndSubmit('PSSViewStudentAttendanceAction.do');" class="tabs actionable" id="tabs-2_TAB">  <span id="2_TAB">Attendance</span>
+</a>
+
+  <a href="javascript:setSelectedIndexIdFromTable('table'); setActionForFormAndSubmit('PSSViewReportCardsAction.do');" class="tabs actionable" id="tabs-3_TAB">  <span id="3_TAB">Report Cards</span>
+</a>
+
+  <span id="5_TAB" class="tabsActive">Progress Reports</span>
+
+  <a href="javascript:setSelectedIndexIdFromTable('table'); javascript:setActionForFormAndSubmit('PSSEmailTeacherAction.do')" class="tabs actionable" id="tabs-7_TAB">  <span id="7_TAB">Email Teacher</span>
+</a>
+
+  <a href="javascript:setSelectedIndexIdFromTable('table'); setActionForFormAndSubmit('PSSViewScheduleAction.do');" class="tabs actionable" id="tabs-7A_TAB">  <span id="7A_TAB">Schedule</span>
+</a>
+
+  <a href="javascript:setSelectedIndexIdFromTable('table'); javascript:setActionForFormAndSubmit('PSSEditNotificationAction.do')" class="tabs actionable" id="tabs-10_TAB">  <span id="10_TAB">Notifications</span>
+</a>
+
+  <a href="javascript:setSelectedIndexIdFromTable('table'); javascript:setActionForFormAndSubmit('PSSViewStudentImmunAction.do')" class="tabs actionable" id="tabs-12A_TAB">  <span id="12A_TAB">Immunization</span>
+</a>
+
+  <a href="javascript:setSelectedIndexIdFromTable('table'); javascript:setActionForFormAndSubmit('PSSCampusMessagesAction.do')" class="tabs actionable" id="tabs-14_TAB">  <span id="14_TAB">Campus Messages</span>
+</a>
+
+  <a href="javascript:setSelectedIndexIdFromTable('table'); javascript:setActionForFormAndSubmit('PSSViewStudentGradPlanCreditSummaryAction.do')" class="tabs actionable" id="tabs-15_TAB">  <span id="15_TAB">Credit Summary</span>
+</a>
+
+  <a href="javascript:setSelectedIndexIdFromTable('table'); javascript:setActionForFormAndSubmit('PSSTestingDetailsAction.do')" class="tabs actionable" id="tabs-21_TAB">  <span id="21_TAB">Testing</span>
+</a>
+
+  <a href="javascript:setSelectedIndexIdFromTable('table'); javascript:setActionForFormAndSubmit('PSSUnpaidFeesTabAction.do')" class="tabs actionable" id="tabs-24_TAB">  <span id="24_TAB">Unpaid Fees</span>
+</a>
+
+  <a href="javascript:setSelectedIndexIdFromTable('table'); javascript:setActionForFormAndSubmit('PSSPaymentHistoryTabAction.do')" class="tabs actionable" id="tabs-25_TAB">  <span id="25_TAB">Payment History</span>
+</a>
+
+</div><!-- End of DIV tabContainer -->
+</div><!-- End of DIV navigationElementsContainer -->
+  <div class="folder">
+
+<!-- End of BodyTag.doStartTag() -->
+<form name="SmartForm" method="POST" autocomplete="off"><input type="hidden" name="selectedIndexId" value="-1"><input type="hidden" name="selectedTable" value=""><input type="hidden" name="smartFormName" value="SmartForm"><input type="hidden" name="focusElement" value=""><input type="hidden" name="gradeBookKey" value="" onblur="isCodeInjection(this);" id="gradeBookKey"><div id="components" style="display:none">	
+	<span class="label"></span><div id="replaceDivParam">	
+		<input type="text" name="replaceObjectParam1" maxlength="3" size="3" value="" onchange="if(!localSaveCellValue(this)){return false;};" onblur="isCodeInjection(this);" onfocus="saveOriginalValue(this);" style="height: 12px;padding-top: 0;" id="replaceObjectParam1"></div>	
+</div>
+<span class="label"></span><span class="label"></span><div class="pssGradingProgressView">
+	<div class="panelContainer">
+	
+<input type="hidden" value="" name="selectedCell">
+<input type="hidden" value="" name="selectedTdId">
+
+<table class="scrollSortTable gridTag" id="progressTable" cellspacing="0" cellpadding="0" style="table-layout:fixed"><colgroup><col width="490"><col width="100%"></colgroup><tbody><tr><td valign="top"><div id="progressTabletopLeft1" class="studentGradingTopLeft"><table class="tblHeaderGrading" id="tableHeaderTable" cellspacing="0" cellpadding="0" style="table-layout:fixed">
+<colgroup><col width="70">
+<col width="60">
+<col width="140">
+<col width="80">
+<col width="70">
+<col width="70">
+</colgroup><tbody>
+<tr>
+   <td valign="top" colspan="1" rowspan="1" class="defaultGrading" width="70">Course</td>
+
+   <td valign="top" colspan="1" rowspan="1" class="defaultGrading" width="60">Sect</td>
+
+   <td valign="top" colspan="1" rowspan="1" class="defaultGrading" width="140">Teacher</td>
+
+   <td valign="top" colspan="1" rowspan="1" class="defaultGrading" width="80">Short&nbsp;Desc</td>
+
+   <td valign="top" colspan="1" rowspan="1" class="defaultGrading" width="70">Day&nbsp;Prd</td>
+
+   <td valign="top" colspan="1" rowspan="1" class="defaultGrading" width="70">Room</td>
+</tr>
+</tbody></table></div></td>
+<td valign="top"><div id="progressTabletopRight1" class="studentGradingTopRight"><table class="tblHeaderGrading" id="tableHeaderTable" cellspacing="0" cellpadding="0" style="table-layout:fixed">
+<colgroup><col width="45">
+<col width="45">
+<col width="45">
+<col width="45">
+<col width="45">
+<col width="45">
+<col width="45">
+<col width="45">
+</colgroup><tbody>
+<tr>
+   <td valign="top" colspan="1" class="borderLeftHeading" width="45">P1A</td>
+
+   <td valign="top" colspan="1" class="borderLeftHeading" width="45">P1B</td>
+
+   <td valign="top" colspan="1" class="borderLeftHeading" width="45">P2A</td>
+
+   <td valign="top" colspan="1" class="borderLeftHeading" width="45">P2B</td>
+
+   <td valign="top" colspan="1" class="borderLeftHeading" width="45">P3A</td>
+
+   <td valign="top" colspan="1" class="borderLeftHeading" width="45">P3B</td>
+
+   <td valign="top" colspan="1" class="borderLeftHeading" width="45">P4A</td>
+
+   <td valign="top" colspan="1" class="borderLeftHeading" width="45">P4B</td>
+<td class="gridFiller" style="width: 16px;"></td>
+</tr>
+</tbody></table></div></td>
+</tr>
+<tr><td valign="top"><div id="progressTablebotLeft1" class="studentGradingBottomLeft"><table class="tblHeaderGrading" id="tableHeaderTable" cellspacing="0" cellpadding="0" style="table-layout:fixed">
+<colgroup><col width="70">
+<col width="60">
+<col width="140">
+<col width="80">
+<col width="70">
+<col width="70">
+</colgroup><tbody><tr class="odd"><td nowrap="" valign="middle" colspan="6" id="r1td0" class="likeH1">Scheduled</td>
+   </tr>
+<tr class="even"><td nowrap="" valign="middle" colspan="1" id="r2td0" cellkey="sectionIndex=07STEM,courseIndex=4680,skGrpIndex=null,calendarIndex=1,dayCodeIndex=A - 01,teacherIndex=McDonald^ Meghan," class="defaultGrading">4680</td>
+   <td nowrap="" valign="middle" colspan="1" id="r2td1" cellkey="sectionIndex=07STEM,courseIndex=4680,skGrpIndex=null,calendarIndex=1,dayCodeIndex=A - 01,teacherIndex=McDonald^ Meghan," class="defaultGrading">07STEM</td>
+   <td nowrap="" valign="middle" colspan="1" id="r2td2" cellkey="sectionIndex=07STEM,courseIndex=4680,skGrpIndex=null,calendarIndex=1,dayCodeIndex=A - 01,teacherIndex=McDonald^ Meghan," class="studentNameGrading"><a href="#" class="linkStyleBlue" onclick="provideRowFunction('r2td2','sectionIndex=07STEM,courseIndex=4680,skGrpIndex=null,calendarIndex=1,dayCodeIndex=A - 01,teacherIndex=McDonald^ Meghan,');">McDonald,&nbsp;Meghan</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r2td3" cellkey="sectionIndex=07STEM,courseIndex=4680,skGrpIndex=null,calendarIndex=1,dayCodeIndex=A - 01,teacherIndex=McDonald^ Meghan," class="studentNameGrading">PREAP&nbsp;GEOMETRY</td>
+   <td nowrap="" valign="middle" colspan="1" id="r2td4" cellkey="sectionIndex=07STEM,courseIndex=4680,skGrpIndex=null,calendarIndex=1,dayCodeIndex=A - 01,teacherIndex=McDonald^ Meghan," class="defaultGrading">A&nbsp;‑&nbsp;01</td>
+   <td nowrap="" valign="middle" colspan="1" id="r2td5" cellkey="sectionIndex=07STEM,courseIndex=4680,skGrpIndex=null,calendarIndex=1,dayCodeIndex=A - 01,teacherIndex=McDonald^ Meghan," class="defaultGrading">EG101</td>
+   </tr>
+<tr class="odd"><td nowrap="" valign="middle" colspan="1" id="r3td0" cellkey="sectionIndex=03,courseIndex=3810,skGrpIndex=null,calendarIndex=1,dayCodeIndex=A - 02,teacherIndex=Molina^ Ruth," class="defaultGrading">3810</td>
+   <td nowrap="" valign="middle" colspan="1" id="r3td1" cellkey="sectionIndex=03,courseIndex=3810,skGrpIndex=null,calendarIndex=1,dayCodeIndex=A - 02,teacherIndex=Molina^ Ruth," class="defaultGrading">03</td>
+   <td nowrap="" valign="middle" colspan="1" id="r3td2" cellkey="sectionIndex=03,courseIndex=3810,skGrpIndex=null,calendarIndex=1,dayCodeIndex=A - 02,teacherIndex=Molina^ Ruth," class="studentNameGrading"><a href="#" class="linkStyleBlue" onclick="provideRowFunction('r3td2','sectionIndex=03,courseIndex=3810,skGrpIndex=null,calendarIndex=1,dayCodeIndex=A - 02,teacherIndex=Molina^ Ruth,');">Molina,&nbsp;Ruth</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r3td3" cellkey="sectionIndex=03,courseIndex=3810,skGrpIndex=null,calendarIndex=1,dayCodeIndex=A - 02,teacherIndex=Molina^ Ruth," class="studentNameGrading">SPANISH&nbsp;2</td>
+   <td nowrap="" valign="middle" colspan="1" id="r3td4" cellkey="sectionIndex=03,courseIndex=3810,skGrpIndex=null,calendarIndex=1,dayCodeIndex=A - 02,teacherIndex=Molina^ Ruth," class="defaultGrading">A&nbsp;‑&nbsp;02</td>
+   <td nowrap="" valign="middle" colspan="1" id="r3td5" cellkey="sectionIndex=03,courseIndex=3810,skGrpIndex=null,calendarIndex=1,dayCodeIndex=A - 02,teacherIndex=Molina^ Ruth," class="defaultGrading">B212</td>
+   </tr>
+<tr class="even"><td nowrap="" valign="middle" colspan="1" id="r4td0" cellkey="sectionIndex=03Stem,courseIndex=1171,skGrpIndex=null,calendarIndex=1,dayCodeIndex=A - 03,teacherIndex=Johnson^ Dionne," class="defaultGrading">1171</td>
+   <td nowrap="" valign="middle" colspan="1" id="r4td1" cellkey="sectionIndex=03Stem,courseIndex=1171,skGrpIndex=null,calendarIndex=1,dayCodeIndex=A - 03,teacherIndex=Johnson^ Dionne," class="defaultGrading">03Stem</td>
+   <td nowrap="" valign="middle" colspan="1" id="r4td2" cellkey="sectionIndex=03Stem,courseIndex=1171,skGrpIndex=null,calendarIndex=1,dayCodeIndex=A - 03,teacherIndex=Johnson^ Dionne," class="studentNameGrading"><a href="#" class="linkStyleBlue" onclick="provideRowFunction('r4td2','sectionIndex=03Stem,courseIndex=1171,skGrpIndex=null,calendarIndex=1,dayCodeIndex=A - 03,teacherIndex=Johnson^ Dionne,');">Johnson,&nbsp;Dionne</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r4td3" cellkey="sectionIndex=03Stem,courseIndex=1171,skGrpIndex=null,calendarIndex=1,dayCodeIndex=A - 03,teacherIndex=Johnson^ Dionne," class="studentNameGrading">PREAP&nbsp;ENGLISH&nbsp;2</td>
+   <td nowrap="" valign="middle" colspan="1" id="r4td4" cellkey="sectionIndex=03Stem,courseIndex=1171,skGrpIndex=null,calendarIndex=1,dayCodeIndex=A - 03,teacherIndex=Johnson^ Dionne," class="defaultGrading">A&nbsp;‑&nbsp;03</td>
+   <td nowrap="" valign="middle" colspan="1" id="r4td5" cellkey="sectionIndex=03Stem,courseIndex=1171,skGrpIndex=null,calendarIndex=1,dayCodeIndex=A - 03,teacherIndex=Johnson^ Dionne," class="defaultGrading">EG104B</td>
+   </tr>
+<tr class="odd"><td nowrap="" valign="middle" colspan="1" id="r5td0" cellkey="sectionIndex=01STEM,courseIndex=7971,skGrpIndex=null,calendarIndex=1,dayCodeIndex=A - 04,teacherIndex=McCann^ Alexandria," class="defaultGrading">7971</td>
+   <td nowrap="" valign="middle" colspan="1" id="r5td1" cellkey="sectionIndex=01STEM,courseIndex=7971,skGrpIndex=null,calendarIndex=1,dayCodeIndex=A - 04,teacherIndex=McCann^ Alexandria," class="defaultGrading">01STEM</td>
+   <td nowrap="" valign="middle" colspan="1" id="r5td2" cellkey="sectionIndex=01STEM,courseIndex=7971,skGrpIndex=null,calendarIndex=1,dayCodeIndex=A - 04,teacherIndex=McCann^ Alexandria," class="studentNameGrading"><a href="#" class="linkStyleBlue" onclick="provideRowFunction('r5td2','sectionIndex=01STEM,courseIndex=7971,skGrpIndex=null,calendarIndex=1,dayCodeIndex=A - 04,teacherIndex=McCann^ Alexandria,');">McCann,&nbsp;Alexandria</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r5td3" cellkey="sectionIndex=01STEM,courseIndex=7971,skGrpIndex=null,calendarIndex=1,dayCodeIndex=A - 04,teacherIndex=McCann^ Alexandria," class="studentNameGrading">PREAP&nbsp;WORLD&nbsp;HIS</td>
+   <td nowrap="" valign="middle" colspan="1" id="r5td4" cellkey="sectionIndex=01STEM,courseIndex=7971,skGrpIndex=null,calendarIndex=1,dayCodeIndex=A - 04,teacherIndex=McCann^ Alexandria," class="defaultGrading">A&nbsp;‑&nbsp;04</td>
+   <td nowrap="" valign="middle" colspan="1" id="r5td5" cellkey="sectionIndex=01STEM,courseIndex=7971,skGrpIndex=null,calendarIndex=1,dayCodeIndex=A - 04,teacherIndex=McCann^ Alexandria," class="defaultGrading">EG103A</td>
+   </tr>
+<tr class="even"><td nowrap="" valign="middle" colspan="1" id="r6td0" cellkey="sectionIndex=02STEM,courseIndex=6625,skGrpIndex=null,calendarIndex=1,dayCodeIndex=B - 05,teacherIndex=Portillo Trejo^ Dinora," class="defaultGrading">6625</td>
+   <td nowrap="" valign="middle" colspan="1" id="r6td1" cellkey="sectionIndex=02STEM,courseIndex=6625,skGrpIndex=null,calendarIndex=1,dayCodeIndex=B - 05,teacherIndex=Portillo Trejo^ Dinora," class="defaultGrading">02STEM</td>
+   <td nowrap="" valign="middle" colspan="1" id="r6td2" cellkey="sectionIndex=02STEM,courseIndex=6625,skGrpIndex=null,calendarIndex=1,dayCodeIndex=B - 05,teacherIndex=Portillo Trejo^ Dinora," class="studentNameGrading"><a href="#" class="linkStyleBlue" onclick="provideRowFunction('r6td2','sectionIndex=02STEM,courseIndex=6625,skGrpIndex=null,calendarIndex=1,dayCodeIndex=B - 05,teacherIndex=Portillo Trejo^ Dinora,');">Portillo&nbsp;Trejo,&nbsp;Dinora</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r6td3" cellkey="sectionIndex=02STEM,courseIndex=6625,skGrpIndex=null,calendarIndex=1,dayCodeIndex=B - 05,teacherIndex=Portillo Trejo^ Dinora," class="studentNameGrading">PREAP&nbsp;BIOLOGY&nbsp;1</td>
+   <td nowrap="" valign="middle" colspan="1" id="r6td4" cellkey="sectionIndex=02STEM,courseIndex=6625,skGrpIndex=null,calendarIndex=1,dayCodeIndex=B - 05,teacherIndex=Portillo Trejo^ Dinora," class="defaultGrading">B&nbsp;‑&nbsp;05</td>
+   <td nowrap="" valign="middle" colspan="1" id="r6td5" cellkey="sectionIndex=02STEM,courseIndex=6625,skGrpIndex=null,calendarIndex=1,dayCodeIndex=B - 05,teacherIndex=Portillo Trejo^ Dinora," class="defaultGrading">EG204</td>
+   </tr>
+<tr class="odd"><td nowrap="" valign="middle" colspan="1" id="r7td0" cellkey="sectionIndex=03,courseIndex=5896,skGrpIndex=null,calendarIndex=1,dayCodeIndex=B - 07,teacherIndex=Caro^ Martin," class="defaultGrading">5896</td>
+   <td nowrap="" valign="middle" colspan="1" id="r7td1" cellkey="sectionIndex=03,courseIndex=5896,skGrpIndex=null,calendarIndex=1,dayCodeIndex=B - 07,teacherIndex=Caro^ Martin," class="defaultGrading">03</td>
+   <td nowrap="" valign="middle" colspan="1" id="r7td2" cellkey="sectionIndex=03,courseIndex=5896,skGrpIndex=null,calendarIndex=1,dayCodeIndex=B - 07,teacherIndex=Caro^ Martin," class="studentNameGrading"><a href="#" class="linkStyleBlue" onclick="provideRowFunction('r7td2','sectionIndex=03,courseIndex=5896,skGrpIndex=null,calendarIndex=1,dayCodeIndex=B - 07,teacherIndex=Caro^ Martin,');">Caro,&nbsp;Martin</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r7td3" cellkey="sectionIndex=03,courseIndex=5896,skGrpIndex=null,calendarIndex=1,dayCodeIndex=B - 07,teacherIndex=Caro^ Martin," class="studentNameGrading">ROTC&nbsp;2</td>
+   <td nowrap="" valign="middle" colspan="1" id="r7td4" cellkey="sectionIndex=03,courseIndex=5896,skGrpIndex=null,calendarIndex=1,dayCodeIndex=B - 07,teacherIndex=Caro^ Martin," class="defaultGrading">B&nbsp;‑&nbsp;07</td>
+   <td nowrap="" valign="middle" colspan="1" id="r7td5" cellkey="sectionIndex=03,courseIndex=5896,skGrpIndex=null,calendarIndex=1,dayCodeIndex=B - 07,teacherIndex=Caro^ Martin," class="defaultGrading">N110</td>
+   </tr>
+<tr class="even"><td nowrap="" valign="middle" colspan="1" id="r8td0" cellkey="sectionIndex=02,courseIndex=8401,skGrpIndex=null,calendarIndex=1,dayCodeIndex=B - 08,teacherIndex=Bavarian^ Sylvia," class="defaultGrading">8401</td>
+   <td nowrap="" valign="middle" colspan="1" id="r8td1" cellkey="sectionIndex=02,courseIndex=8401,skGrpIndex=null,calendarIndex=1,dayCodeIndex=B - 08,teacherIndex=Bavarian^ Sylvia," class="defaultGrading">02</td>
+   <td nowrap="" valign="middle" colspan="1" id="r8td2" cellkey="sectionIndex=02,courseIndex=8401,skGrpIndex=null,calendarIndex=1,dayCodeIndex=B - 08,teacherIndex=Bavarian^ Sylvia," class="studentNameGrading"><a href="#" class="linkStyleBlue" onclick="provideRowFunction('r8td2','sectionIndex=02,courseIndex=8401,skGrpIndex=null,calendarIndex=1,dayCodeIndex=B - 08,teacherIndex=Bavarian^ Sylvia,');">Bavarian,&nbsp;Sylvia</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r8td3" cellkey="sectionIndex=02,courseIndex=8401,skGrpIndex=null,calendarIndex=1,dayCodeIndex=B - 08,teacherIndex=Bavarian^ Sylvia," class="studentNameGrading">COMP&nbsp;SCI&nbsp;1</td>
+   <td nowrap="" valign="middle" colspan="1" id="r8td4" cellkey="sectionIndex=02,courseIndex=8401,skGrpIndex=null,calendarIndex=1,dayCodeIndex=B - 08,teacherIndex=Bavarian^ Sylvia," class="defaultGrading">B&nbsp;‑&nbsp;08</td>
+   <td nowrap="" valign="middle" colspan="1" id="r8td5" cellkey="sectionIndex=02,courseIndex=8401,skGrpIndex=null,calendarIndex=1,dayCodeIndex=B - 08,teacherIndex=Bavarian^ Sylvia," class="defaultGrading">EG102</td>
+   </tr>
+</tbody></table>
+</div></td>
+<td valign="top"><div id="progressTablebottomRight1" class="studentGradingBottomRight"><table class="tblHeaderGrading" id="tableHeaderTable" cellspacing="0" cellpadding="0" style="table-layout:fixed"><!--BotRightChildElemRows-->
+<colgroup><col width="45">
+<col width="45">
+<col width="45">
+<col width="45">
+<col width="45">
+<col width="45">
+<col width="45">
+<col width="45">
+</colgroup><tbody><tr class="odd">   <td nowrap="" valign="middle" colspan="1" id="r1td6" class="likeH1BoarderLeft"><span id="null">&nbsp;</span></td>
+   <td nowrap="" valign="middle" colspan="1" id="r1td7" class="likeH1BoarderLeft"><span id="null">&nbsp;</span></td>
+   <td nowrap="" valign="middle" colspan="1" id="r1td8" class="likeH1BoarderLeft"><span id="null">&nbsp;</span></td>
+   <td nowrap="" valign="middle" colspan="1" id="r1td9" class="likeH1BoarderLeft"><span id="null">&nbsp;</span></td>
+   <td nowrap="" valign="middle" colspan="1" id="r1td10" class="likeH1BoarderLeft"><span id="null">&nbsp;</span></td>
+   <td nowrap="" valign="middle" colspan="1" id="r1td11" class="likeH1BoarderLeft"><span id="null">&nbsp;</span></td>
+   <td nowrap="" valign="middle" colspan="1" id="r1td12" class="likeH1BoarderLeft"><span id="null">&nbsp;</span></td>
+   <td nowrap="" valign="middle" colspan="1" id="r1td13" class="likeH1BoarderLeft"><span id="null">&nbsp;</span></td>
+</tr>
+<tr class="even">   <td nowrap="" valign="middle" colspan="1" id="r2td6" datacolid="1^P1A" cellkey="sectionIndex=07STEM,gradeTypeIndex=1st Nine Weeks Progress 1A,courseIndex=4680,calendarIndex=1,gradeIndex=38,teacherIndex=McDonald^&nbsp;Meghan,dayCodeIndex=A - 01,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r2td6','sectionIndex=07STEM,gradeTypeIndex=1st Nine Weeks Progress 1A,courseIndex=4680,calendarIndex=1,gradeIndex=38,teacherIndex=McDonald^&nbsp;Meghan,dayCodeIndex=A - 01,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=07STEM,gradeTypeIndex=1st Nine Weeks Progress 1A,courseIndex=4680,calendarIndex=1,gradeIndex=38,teacherIndex=McDonald^&nbsp;Meghan,dayCodeIndex=A - 01,locIndex=001">38</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r2td7" datacolid="1^P1B" cellkey="sectionIndex=07STEM,gradeTypeIndex=1st Nine Weeks Progress 1B,courseIndex=4680,calendarIndex=1,gradeIndex=18,teacherIndex=McDonald^&nbsp;Meghan,dayCodeIndex=A - 01,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r2td7','sectionIndex=07STEM,gradeTypeIndex=1st Nine Weeks Progress 1B,courseIndex=4680,calendarIndex=1,gradeIndex=18,teacherIndex=McDonald^&nbsp;Meghan,dayCodeIndex=A - 01,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=07STEM,gradeTypeIndex=1st Nine Weeks Progress 1B,courseIndex=4680,calendarIndex=1,gradeIndex=18,teacherIndex=McDonald^&nbsp;Meghan,dayCodeIndex=A - 01,locIndex=001">18</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r2td8" datacolid="2^P2A" cellkey="sectionIndex=07STEM,gradeTypeIndex=2nd Nine Weeks Progress 2A,courseIndex=4680,calendarIndex=1,gradeIndex=52,teacherIndex=McDonald^&nbsp;Meghan,dayCodeIndex=A - 01,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r2td8','sectionIndex=07STEM,gradeTypeIndex=2nd Nine Weeks Progress 2A,courseIndex=4680,calendarIndex=1,gradeIndex=52,teacherIndex=McDonald^&nbsp;Meghan,dayCodeIndex=A - 01,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=07STEM,gradeTypeIndex=2nd Nine Weeks Progress 2A,courseIndex=4680,calendarIndex=1,gradeIndex=52,teacherIndex=McDonald^&nbsp;Meghan,dayCodeIndex=A - 01,locIndex=001">52</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r2td9" datacolid="2^P2B^true" cellkey="sectionIndex=07STEM,gradeTypeIndex=2nd Nine Weeks Progress 2B,courseIndex=4680,calendarIndex=1,teacherIndex=McDonald^&nbsp;Meghan,dayCodeIndex=A - 01,locIndex=001,gradeIndex=52" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r2td9','sectionIndex=07STEM,gradeTypeIndex=2nd Nine Weeks Progress 2B,courseIndex=4680,calendarIndex=1,teacherIndex=McDonald^&nbsp;Meghan,dayCodeIndex=A - 01,locIndex=001,gradeIndex=52');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=07STEM,gradeTypeIndex=2nd Nine Weeks Progress 2B,courseIndex=4680,calendarIndex=1,teacherIndex=McDonald^&nbsp;Meghan,dayCodeIndex=A - 01,locIndex=001,gradeIndex=52"><font color="red">52</font></a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r2td10" datacolid="3^P3A" cellkey="sectionIndex=07STEM,gradeTypeIndex=3rd Nine Weeks Progress 3A,courseIndex=4680,calendarIndex=1,teacherIndex=McDonald^&nbsp;Meghan,dayCodeIndex=A - 01,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r2td10','sectionIndex=07STEM,gradeTypeIndex=3rd Nine Weeks Progress 3A,courseIndex=4680,calendarIndex=1,teacherIndex=McDonald^&nbsp;Meghan,dayCodeIndex=A - 01,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=07STEM,gradeTypeIndex=3rd Nine Weeks Progress 3A,courseIndex=4680,calendarIndex=1,teacherIndex=McDonald^&nbsp;Meghan,dayCodeIndex=A - 01,locIndex=001">&nbsp;&nbsp;</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r2td11" datacolid="3^P3B" cellkey="sectionIndex=07STEM,gradeTypeIndex=3rd Nine Weeks Progress 3B,courseIndex=4680,calendarIndex=1,teacherIndex=McDonald^&nbsp;Meghan,dayCodeIndex=A - 01,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r2td11','sectionIndex=07STEM,gradeTypeIndex=3rd Nine Weeks Progress 3B,courseIndex=4680,calendarIndex=1,teacherIndex=McDonald^&nbsp;Meghan,dayCodeIndex=A - 01,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=07STEM,gradeTypeIndex=3rd Nine Weeks Progress 3B,courseIndex=4680,calendarIndex=1,teacherIndex=McDonald^&nbsp;Meghan,dayCodeIndex=A - 01,locIndex=001">&nbsp;&nbsp;</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r2td12" datacolid="4^P4A" cellkey="sectionIndex=07STEM,gradeTypeIndex=4th Nine Weeks Progess 4A,courseIndex=4680,calendarIndex=1,teacherIndex=McDonald^&nbsp;Meghan,dayCodeIndex=A - 01,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r2td12','sectionIndex=07STEM,gradeTypeIndex=4th Nine Weeks Progess 4A,courseIndex=4680,calendarIndex=1,teacherIndex=McDonald^&nbsp;Meghan,dayCodeIndex=A - 01,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=07STEM,gradeTypeIndex=4th Nine Weeks Progess 4A,courseIndex=4680,calendarIndex=1,teacherIndex=McDonald^&nbsp;Meghan,dayCodeIndex=A - 01,locIndex=001">&nbsp;&nbsp;</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r2td13" datacolid="4^P4B" cellkey="sectionIndex=07STEM,gradeTypeIndex=4th Nine Weeks Progress 4B,courseIndex=4680,calendarIndex=1,teacherIndex=McDonald^&nbsp;Meghan,dayCodeIndex=A - 01,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r2td13','sectionIndex=07STEM,gradeTypeIndex=4th Nine Weeks Progress 4B,courseIndex=4680,calendarIndex=1,teacherIndex=McDonald^&nbsp;Meghan,dayCodeIndex=A - 01,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=07STEM,gradeTypeIndex=4th Nine Weeks Progress 4B,courseIndex=4680,calendarIndex=1,teacherIndex=McDonald^&nbsp;Meghan,dayCodeIndex=A - 01,locIndex=001">&nbsp;&nbsp;</a></td>
+</tr>
+<tr class="odd">   <td nowrap="" valign="middle" colspan="1" id="r3td6" datacolid="1^P1A" cellkey="sectionIndex=03,gradeTypeIndex=1st Nine Weeks Progress 1A,courseIndex=3810,calendarIndex=1,gradeIndex=58,teacherIndex=Molina^&nbsp;Ruth,dayCodeIndex=A - 02,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r3td6','sectionIndex=03,gradeTypeIndex=1st Nine Weeks Progress 1A,courseIndex=3810,calendarIndex=1,gradeIndex=58,teacherIndex=Molina^&nbsp;Ruth,dayCodeIndex=A - 02,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=03,gradeTypeIndex=1st Nine Weeks Progress 1A,courseIndex=3810,calendarIndex=1,gradeIndex=58,teacherIndex=Molina^&nbsp;Ruth,dayCodeIndex=A - 02,locIndex=001">58</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r3td7" datacolid="1^P1B" cellkey="sectionIndex=03,gradeTypeIndex=1st Nine Weeks Progress 1B,courseIndex=3810,calendarIndex=1,gradeIndex=59,teacherIndex=Molina^&nbsp;Ruth,dayCodeIndex=A - 02,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r3td7','sectionIndex=03,gradeTypeIndex=1st Nine Weeks Progress 1B,courseIndex=3810,calendarIndex=1,gradeIndex=59,teacherIndex=Molina^&nbsp;Ruth,dayCodeIndex=A - 02,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=03,gradeTypeIndex=1st Nine Weeks Progress 1B,courseIndex=3810,calendarIndex=1,gradeIndex=59,teacherIndex=Molina^&nbsp;Ruth,dayCodeIndex=A - 02,locIndex=001">59</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r3td8" datacolid="2^P2A" cellkey="sectionIndex=03,gradeTypeIndex=2nd Nine Weeks Progress 2A,courseIndex=3810,calendarIndex=1,gradeIndex=100,teacherIndex=Molina^&nbsp;Ruth,dayCodeIndex=A - 02,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r3td8','sectionIndex=03,gradeTypeIndex=2nd Nine Weeks Progress 2A,courseIndex=3810,calendarIndex=1,gradeIndex=100,teacherIndex=Molina^&nbsp;Ruth,dayCodeIndex=A - 02,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=03,gradeTypeIndex=2nd Nine Weeks Progress 2A,courseIndex=3810,calendarIndex=1,gradeIndex=100,teacherIndex=Molina^&nbsp;Ruth,dayCodeIndex=A - 02,locIndex=001">100</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r3td9" datacolid="2^P2B^true" cellkey="sectionIndex=03,gradeTypeIndex=2nd Nine Weeks Progress 2B,courseIndex=3810,calendarIndex=1,teacherIndex=Molina^&nbsp;Ruth,dayCodeIndex=A - 02,locIndex=001,gradeIndex=100" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r3td9','sectionIndex=03,gradeTypeIndex=2nd Nine Weeks Progress 2B,courseIndex=3810,calendarIndex=1,teacherIndex=Molina^&nbsp;Ruth,dayCodeIndex=A - 02,locIndex=001,gradeIndex=100');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=03,gradeTypeIndex=2nd Nine Weeks Progress 2B,courseIndex=3810,calendarIndex=1,teacherIndex=Molina^&nbsp;Ruth,dayCodeIndex=A - 02,locIndex=001,gradeIndex=100"><font color="red">100</font></a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r3td10" datacolid="3^P3A" cellkey="sectionIndex=03,gradeTypeIndex=3rd Nine Weeks Progress 3A,courseIndex=3810,calendarIndex=1,teacherIndex=Molina^&nbsp;Ruth,dayCodeIndex=A - 02,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r3td10','sectionIndex=03,gradeTypeIndex=3rd Nine Weeks Progress 3A,courseIndex=3810,calendarIndex=1,teacherIndex=Molina^&nbsp;Ruth,dayCodeIndex=A - 02,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=03,gradeTypeIndex=3rd Nine Weeks Progress 3A,courseIndex=3810,calendarIndex=1,teacherIndex=Molina^&nbsp;Ruth,dayCodeIndex=A - 02,locIndex=001">&nbsp;&nbsp;</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r3td11" datacolid="3^P3B" cellkey="sectionIndex=03,gradeTypeIndex=3rd Nine Weeks Progress 3B,courseIndex=3810,calendarIndex=1,teacherIndex=Molina^&nbsp;Ruth,dayCodeIndex=A - 02,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r3td11','sectionIndex=03,gradeTypeIndex=3rd Nine Weeks Progress 3B,courseIndex=3810,calendarIndex=1,teacherIndex=Molina^&nbsp;Ruth,dayCodeIndex=A - 02,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=03,gradeTypeIndex=3rd Nine Weeks Progress 3B,courseIndex=3810,calendarIndex=1,teacherIndex=Molina^&nbsp;Ruth,dayCodeIndex=A - 02,locIndex=001">&nbsp;&nbsp;</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r3td12" datacolid="4^P4A" cellkey="sectionIndex=03,gradeTypeIndex=4th Nine Weeks Progess 4A,courseIndex=3810,calendarIndex=1,teacherIndex=Molina^&nbsp;Ruth,dayCodeIndex=A - 02,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r3td12','sectionIndex=03,gradeTypeIndex=4th Nine Weeks Progess 4A,courseIndex=3810,calendarIndex=1,teacherIndex=Molina^&nbsp;Ruth,dayCodeIndex=A - 02,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=03,gradeTypeIndex=4th Nine Weeks Progess 4A,courseIndex=3810,calendarIndex=1,teacherIndex=Molina^&nbsp;Ruth,dayCodeIndex=A - 02,locIndex=001">&nbsp;&nbsp;</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r3td13" datacolid="4^P4B" cellkey="sectionIndex=03,gradeTypeIndex=4th Nine Weeks Progress 4B,courseIndex=3810,calendarIndex=1,teacherIndex=Molina^&nbsp;Ruth,dayCodeIndex=A - 02,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r3td13','sectionIndex=03,gradeTypeIndex=4th Nine Weeks Progress 4B,courseIndex=3810,calendarIndex=1,teacherIndex=Molina^&nbsp;Ruth,dayCodeIndex=A - 02,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=03,gradeTypeIndex=4th Nine Weeks Progress 4B,courseIndex=3810,calendarIndex=1,teacherIndex=Molina^&nbsp;Ruth,dayCodeIndex=A - 02,locIndex=001">&nbsp;&nbsp;</a></td>
+</tr>
+<tr class="even">   <td nowrap="" valign="middle" colspan="1" id="r4td6" datacolid="1^P1A" cellkey="sectionIndex=03Stem,gradeTypeIndex=1st Nine Weeks Progress 1A,courseIndex=1171,calendarIndex=1,gradeIndex=6,teacherIndex=Johnson^&nbsp;Dionne,dayCodeIndex=A - 03,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r4td6','sectionIndex=03Stem,gradeTypeIndex=1st Nine Weeks Progress 1A,courseIndex=1171,calendarIndex=1,gradeIndex=6,teacherIndex=Johnson^&nbsp;Dionne,dayCodeIndex=A - 03,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=03Stem,gradeTypeIndex=1st Nine Weeks Progress 1A,courseIndex=1171,calendarIndex=1,gradeIndex=6,teacherIndex=Johnson^&nbsp;Dionne,dayCodeIndex=A - 03,locIndex=001">6</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r4td7" datacolid="1^P1B" cellkey="sectionIndex=03Stem,gradeTypeIndex=1st Nine Weeks Progress 1B,courseIndex=1171,calendarIndex=1,gradeIndex=10,teacherIndex=Johnson^&nbsp;Dionne,dayCodeIndex=A - 03,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r4td7','sectionIndex=03Stem,gradeTypeIndex=1st Nine Weeks Progress 1B,courseIndex=1171,calendarIndex=1,gradeIndex=10,teacherIndex=Johnson^&nbsp;Dionne,dayCodeIndex=A - 03,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=03Stem,gradeTypeIndex=1st Nine Weeks Progress 1B,courseIndex=1171,calendarIndex=1,gradeIndex=10,teacherIndex=Johnson^&nbsp;Dionne,dayCodeIndex=A - 03,locIndex=001">10</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r4td8" datacolid="2^P2A" cellkey="sectionIndex=03Stem,gradeTypeIndex=2nd Nine Weeks Progress 2A,courseIndex=1171,calendarIndex=1,gradeIndex=8,teacherIndex=Johnson^&nbsp;Dionne,dayCodeIndex=A - 03,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r4td8','sectionIndex=03Stem,gradeTypeIndex=2nd Nine Weeks Progress 2A,courseIndex=1171,calendarIndex=1,gradeIndex=8,teacherIndex=Johnson^&nbsp;Dionne,dayCodeIndex=A - 03,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=03Stem,gradeTypeIndex=2nd Nine Weeks Progress 2A,courseIndex=1171,calendarIndex=1,gradeIndex=8,teacherIndex=Johnson^&nbsp;Dionne,dayCodeIndex=A - 03,locIndex=001">8</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r4td9" datacolid="2^P2B^true" cellkey="sectionIndex=03Stem,gradeTypeIndex=2nd Nine Weeks Progress 2B,courseIndex=1171,calendarIndex=1,teacherIndex=Johnson^&nbsp;Dionne,dayCodeIndex=A - 03,locIndex=001,gradeIndex=8" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r4td9','sectionIndex=03Stem,gradeTypeIndex=2nd Nine Weeks Progress 2B,courseIndex=1171,calendarIndex=1,teacherIndex=Johnson^&nbsp;Dionne,dayCodeIndex=A - 03,locIndex=001,gradeIndex=8');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=03Stem,gradeTypeIndex=2nd Nine Weeks Progress 2B,courseIndex=1171,calendarIndex=1,teacherIndex=Johnson^&nbsp;Dionne,dayCodeIndex=A - 03,locIndex=001,gradeIndex=8"><font color="red">8</font></a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r4td10" datacolid="3^P3A" cellkey="sectionIndex=03Stem,gradeTypeIndex=3rd Nine Weeks Progress 3A,courseIndex=1171,calendarIndex=1,teacherIndex=Johnson^&nbsp;Dionne,dayCodeIndex=A - 03,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r4td10','sectionIndex=03Stem,gradeTypeIndex=3rd Nine Weeks Progress 3A,courseIndex=1171,calendarIndex=1,teacherIndex=Johnson^&nbsp;Dionne,dayCodeIndex=A - 03,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=03Stem,gradeTypeIndex=3rd Nine Weeks Progress 3A,courseIndex=1171,calendarIndex=1,teacherIndex=Johnson^&nbsp;Dionne,dayCodeIndex=A - 03,locIndex=001">&nbsp;&nbsp;</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r4td11" datacolid="3^P3B" cellkey="sectionIndex=03Stem,gradeTypeIndex=3rd Nine Weeks Progress 3B,courseIndex=1171,calendarIndex=1,teacherIndex=Johnson^&nbsp;Dionne,dayCodeIndex=A - 03,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r4td11','sectionIndex=03Stem,gradeTypeIndex=3rd Nine Weeks Progress 3B,courseIndex=1171,calendarIndex=1,teacherIndex=Johnson^&nbsp;Dionne,dayCodeIndex=A - 03,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=03Stem,gradeTypeIndex=3rd Nine Weeks Progress 3B,courseIndex=1171,calendarIndex=1,teacherIndex=Johnson^&nbsp;Dionne,dayCodeIndex=A - 03,locIndex=001">&nbsp;&nbsp;</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r4td12" datacolid="4^P4A" cellkey="sectionIndex=03Stem,gradeTypeIndex=4th Nine Weeks Progess 4A,courseIndex=1171,calendarIndex=1,teacherIndex=Johnson^&nbsp;Dionne,dayCodeIndex=A - 03,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r4td12','sectionIndex=03Stem,gradeTypeIndex=4th Nine Weeks Progess 4A,courseIndex=1171,calendarIndex=1,teacherIndex=Johnson^&nbsp;Dionne,dayCodeIndex=A - 03,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=03Stem,gradeTypeIndex=4th Nine Weeks Progess 4A,courseIndex=1171,calendarIndex=1,teacherIndex=Johnson^&nbsp;Dionne,dayCodeIndex=A - 03,locIndex=001">&nbsp;&nbsp;</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r4td13" datacolid="4^P4B" cellkey="sectionIndex=03Stem,gradeTypeIndex=4th Nine Weeks Progress 4B,courseIndex=1171,calendarIndex=1,teacherIndex=Johnson^&nbsp;Dionne,dayCodeIndex=A - 03,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r4td13','sectionIndex=03Stem,gradeTypeIndex=4th Nine Weeks Progress 4B,courseIndex=1171,calendarIndex=1,teacherIndex=Johnson^&nbsp;Dionne,dayCodeIndex=A - 03,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=03Stem,gradeTypeIndex=4th Nine Weeks Progress 4B,courseIndex=1171,calendarIndex=1,teacherIndex=Johnson^&nbsp;Dionne,dayCodeIndex=A - 03,locIndex=001">&nbsp;&nbsp;</a></td>
+</tr>
+<tr class="odd">   <td nowrap="" valign="middle" colspan="1" id="r5td6" datacolid="1^P1A" cellkey="sectionIndex=01STEM,gradeTypeIndex=1st Nine Weeks Progress 1A,courseIndex=7971,calendarIndex=1,gradeIndex=50,teacherIndex=McCann^&nbsp;Alexandria,dayCodeIndex=A - 04,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r5td6','sectionIndex=01STEM,gradeTypeIndex=1st Nine Weeks Progress 1A,courseIndex=7971,calendarIndex=1,gradeIndex=50,teacherIndex=McCann^&nbsp;Alexandria,dayCodeIndex=A - 04,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=01STEM,gradeTypeIndex=1st Nine Weeks Progress 1A,courseIndex=7971,calendarIndex=1,gradeIndex=50,teacherIndex=McCann^&nbsp;Alexandria,dayCodeIndex=A - 04,locIndex=001">50</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r5td7" datacolid="1^P1B" cellkey="sectionIndex=01STEM,gradeTypeIndex=1st Nine Weeks Progress 1B,courseIndex=7971,calendarIndex=1,gradeIndex=73,teacherIndex=McCann^&nbsp;Alexandria,dayCodeIndex=A - 04,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r5td7','sectionIndex=01STEM,gradeTypeIndex=1st Nine Weeks Progress 1B,courseIndex=7971,calendarIndex=1,gradeIndex=73,teacherIndex=McCann^&nbsp;Alexandria,dayCodeIndex=A - 04,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=01STEM,gradeTypeIndex=1st Nine Weeks Progress 1B,courseIndex=7971,calendarIndex=1,gradeIndex=73,teacherIndex=McCann^&nbsp;Alexandria,dayCodeIndex=A - 04,locIndex=001">73</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r5td8" datacolid="2^P2A" cellkey="sectionIndex=01STEM,gradeTypeIndex=2nd Nine Weeks Progress 2A,courseIndex=7971,calendarIndex=1,gradeIndex=84,teacherIndex=McCann^&nbsp;Alexandria,dayCodeIndex=A - 04,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r5td8','sectionIndex=01STEM,gradeTypeIndex=2nd Nine Weeks Progress 2A,courseIndex=7971,calendarIndex=1,gradeIndex=84,teacherIndex=McCann^&nbsp;Alexandria,dayCodeIndex=A - 04,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=01STEM,gradeTypeIndex=2nd Nine Weeks Progress 2A,courseIndex=7971,calendarIndex=1,gradeIndex=84,teacherIndex=McCann^&nbsp;Alexandria,dayCodeIndex=A - 04,locIndex=001">84</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r5td9" datacolid="2^P2B^true" cellkey="sectionIndex=01STEM,gradeTypeIndex=2nd Nine Weeks Progress 2B,courseIndex=7971,calendarIndex=1,teacherIndex=McCann^&nbsp;Alexandria,dayCodeIndex=A - 04,locIndex=001,gradeIndex=84" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r5td9','sectionIndex=01STEM,gradeTypeIndex=2nd Nine Weeks Progress 2B,courseIndex=7971,calendarIndex=1,teacherIndex=McCann^&nbsp;Alexandria,dayCodeIndex=A - 04,locIndex=001,gradeIndex=84');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=01STEM,gradeTypeIndex=2nd Nine Weeks Progress 2B,courseIndex=7971,calendarIndex=1,teacherIndex=McCann^&nbsp;Alexandria,dayCodeIndex=A - 04,locIndex=001,gradeIndex=84"><font color="red">84</font></a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r5td10" datacolid="3^P3A" cellkey="sectionIndex=01STEM,gradeTypeIndex=3rd Nine Weeks Progress 3A,courseIndex=7971,calendarIndex=1,teacherIndex=McCann^&nbsp;Alexandria,dayCodeIndex=A - 04,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r5td10','sectionIndex=01STEM,gradeTypeIndex=3rd Nine Weeks Progress 3A,courseIndex=7971,calendarIndex=1,teacherIndex=McCann^&nbsp;Alexandria,dayCodeIndex=A - 04,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=01STEM,gradeTypeIndex=3rd Nine Weeks Progress 3A,courseIndex=7971,calendarIndex=1,teacherIndex=McCann^&nbsp;Alexandria,dayCodeIndex=A - 04,locIndex=001">&nbsp;&nbsp;</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r5td11" datacolid="3^P3B" cellkey="sectionIndex=01STEM,gradeTypeIndex=3rd Nine Weeks Progress 3B,courseIndex=7971,calendarIndex=1,teacherIndex=McCann^&nbsp;Alexandria,dayCodeIndex=A - 04,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r5td11','sectionIndex=01STEM,gradeTypeIndex=3rd Nine Weeks Progress 3B,courseIndex=7971,calendarIndex=1,teacherIndex=McCann^&nbsp;Alexandria,dayCodeIndex=A - 04,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=01STEM,gradeTypeIndex=3rd Nine Weeks Progress 3B,courseIndex=7971,calendarIndex=1,teacherIndex=McCann^&nbsp;Alexandria,dayCodeIndex=A - 04,locIndex=001">&nbsp;&nbsp;</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r5td12" datacolid="4^P4A" cellkey="sectionIndex=01STEM,gradeTypeIndex=4th Nine Weeks Progess 4A,courseIndex=7971,calendarIndex=1,teacherIndex=McCann^&nbsp;Alexandria,dayCodeIndex=A - 04,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r5td12','sectionIndex=01STEM,gradeTypeIndex=4th Nine Weeks Progess 4A,courseIndex=7971,calendarIndex=1,teacherIndex=McCann^&nbsp;Alexandria,dayCodeIndex=A - 04,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=01STEM,gradeTypeIndex=4th Nine Weeks Progess 4A,courseIndex=7971,calendarIndex=1,teacherIndex=McCann^&nbsp;Alexandria,dayCodeIndex=A - 04,locIndex=001">&nbsp;&nbsp;</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r5td13" datacolid="4^P4B" cellkey="sectionIndex=01STEM,gradeTypeIndex=4th Nine Weeks Progress 4B,courseIndex=7971,calendarIndex=1,teacherIndex=McCann^&nbsp;Alexandria,dayCodeIndex=A - 04,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r5td13','sectionIndex=01STEM,gradeTypeIndex=4th Nine Weeks Progress 4B,courseIndex=7971,calendarIndex=1,teacherIndex=McCann^&nbsp;Alexandria,dayCodeIndex=A - 04,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=01STEM,gradeTypeIndex=4th Nine Weeks Progress 4B,courseIndex=7971,calendarIndex=1,teacherIndex=McCann^&nbsp;Alexandria,dayCodeIndex=A - 04,locIndex=001">&nbsp;&nbsp;</a></td>
+</tr>
+<tr class="even">   <td nowrap="" valign="middle" colspan="1" id="r6td6" datacolid="1^P1A" cellkey="sectionIndex=02STEM,gradeTypeIndex=1st Nine Weeks Progress 1A,courseIndex=6625,calendarIndex=1,gradeIndex=10,teacherIndex=Portillo&nbsp;Trejo^&nbsp;Dinora,dayCodeIndex=B - 05,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r6td6','sectionIndex=02STEM,gradeTypeIndex=1st Nine Weeks Progress 1A,courseIndex=6625,calendarIndex=1,gradeIndex=10,teacherIndex=Portillo&nbsp;Trejo^&nbsp;Dinora,dayCodeIndex=B - 05,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=02STEM,gradeTypeIndex=1st Nine Weeks Progress 1A,courseIndex=6625,calendarIndex=1,gradeIndex=10,teacherIndex=Portillo&nbsp;Trejo^&nbsp;Dinora,dayCodeIndex=B - 05,locIndex=001">10</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r6td7" datacolid="1^P1B" cellkey="sectionIndex=02STEM,gradeTypeIndex=1st Nine Weeks Progress 1B,courseIndex=6625,calendarIndex=1,gradeIndex=49,teacherIndex=Portillo&nbsp;Trejo^&nbsp;Dinora,dayCodeIndex=B - 05,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r6td7','sectionIndex=02STEM,gradeTypeIndex=1st Nine Weeks Progress 1B,courseIndex=6625,calendarIndex=1,gradeIndex=49,teacherIndex=Portillo&nbsp;Trejo^&nbsp;Dinora,dayCodeIndex=B - 05,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=02STEM,gradeTypeIndex=1st Nine Weeks Progress 1B,courseIndex=6625,calendarIndex=1,gradeIndex=49,teacherIndex=Portillo&nbsp;Trejo^&nbsp;Dinora,dayCodeIndex=B - 05,locIndex=001">49</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r6td8" datacolid="2^P2A" cellkey="sectionIndex=02STEM,gradeTypeIndex=2nd Nine Weeks Progress 2A,courseIndex=6625,calendarIndex=1,gradeIndex=17,teacherIndex=Portillo&nbsp;Trejo^&nbsp;Dinora,dayCodeIndex=B - 05,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r6td8','sectionIndex=02STEM,gradeTypeIndex=2nd Nine Weeks Progress 2A,courseIndex=6625,calendarIndex=1,gradeIndex=17,teacherIndex=Portillo&nbsp;Trejo^&nbsp;Dinora,dayCodeIndex=B - 05,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=02STEM,gradeTypeIndex=2nd Nine Weeks Progress 2A,courseIndex=6625,calendarIndex=1,gradeIndex=17,teacherIndex=Portillo&nbsp;Trejo^&nbsp;Dinora,dayCodeIndex=B - 05,locIndex=001">17</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r6td9" datacolid="2^P2B^true" cellkey="sectionIndex=02STEM,gradeTypeIndex=2nd Nine Weeks Progress 2B,courseIndex=6625,calendarIndex=1,teacherIndex=Portillo&nbsp;Trejo^&nbsp;Dinora,dayCodeIndex=B - 05,locIndex=001,gradeIndex=17" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r6td9','sectionIndex=02STEM,gradeTypeIndex=2nd Nine Weeks Progress 2B,courseIndex=6625,calendarIndex=1,teacherIndex=Portillo&nbsp;Trejo^&nbsp;Dinora,dayCodeIndex=B - 05,locIndex=001,gradeIndex=17');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=02STEM,gradeTypeIndex=2nd Nine Weeks Progress 2B,courseIndex=6625,calendarIndex=1,teacherIndex=Portillo&nbsp;Trejo^&nbsp;Dinora,dayCodeIndex=B - 05,locIndex=001,gradeIndex=17"><font color="red">17</font></a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r6td10" datacolid="3^P3A" cellkey="sectionIndex=02STEM,gradeTypeIndex=3rd Nine Weeks Progress 3A,courseIndex=6625,calendarIndex=1,teacherIndex=Portillo&nbsp;Trejo^&nbsp;Dinora,dayCodeIndex=B - 05,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r6td10','sectionIndex=02STEM,gradeTypeIndex=3rd Nine Weeks Progress 3A,courseIndex=6625,calendarIndex=1,teacherIndex=Portillo&nbsp;Trejo^&nbsp;Dinora,dayCodeIndex=B - 05,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=02STEM,gradeTypeIndex=3rd Nine Weeks Progress 3A,courseIndex=6625,calendarIndex=1,teacherIndex=Portillo&nbsp;Trejo^&nbsp;Dinora,dayCodeIndex=B - 05,locIndex=001">&nbsp;&nbsp;</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r6td11" datacolid="3^P3B" cellkey="sectionIndex=02STEM,gradeTypeIndex=3rd Nine Weeks Progress 3B,courseIndex=6625,calendarIndex=1,teacherIndex=Portillo&nbsp;Trejo^&nbsp;Dinora,dayCodeIndex=B - 05,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r6td11','sectionIndex=02STEM,gradeTypeIndex=3rd Nine Weeks Progress 3B,courseIndex=6625,calendarIndex=1,teacherIndex=Portillo&nbsp;Trejo^&nbsp;Dinora,dayCodeIndex=B - 05,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=02STEM,gradeTypeIndex=3rd Nine Weeks Progress 3B,courseIndex=6625,calendarIndex=1,teacherIndex=Portillo&nbsp;Trejo^&nbsp;Dinora,dayCodeIndex=B - 05,locIndex=001">&nbsp;&nbsp;</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r6td12" datacolid="4^P4A" cellkey="sectionIndex=02STEM,gradeTypeIndex=4th Nine Weeks Progess 4A,courseIndex=6625,calendarIndex=1,teacherIndex=Portillo&nbsp;Trejo^&nbsp;Dinora,dayCodeIndex=B - 05,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r6td12','sectionIndex=02STEM,gradeTypeIndex=4th Nine Weeks Progess 4A,courseIndex=6625,calendarIndex=1,teacherIndex=Portillo&nbsp;Trejo^&nbsp;Dinora,dayCodeIndex=B - 05,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=02STEM,gradeTypeIndex=4th Nine Weeks Progess 4A,courseIndex=6625,calendarIndex=1,teacherIndex=Portillo&nbsp;Trejo^&nbsp;Dinora,dayCodeIndex=B - 05,locIndex=001">&nbsp;&nbsp;</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r6td13" datacolid="4^P4B" cellkey="sectionIndex=02STEM,gradeTypeIndex=4th Nine Weeks Progress 4B,courseIndex=6625,calendarIndex=1,teacherIndex=Portillo&nbsp;Trejo^&nbsp;Dinora,dayCodeIndex=B - 05,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r6td13','sectionIndex=02STEM,gradeTypeIndex=4th Nine Weeks Progress 4B,courseIndex=6625,calendarIndex=1,teacherIndex=Portillo&nbsp;Trejo^&nbsp;Dinora,dayCodeIndex=B - 05,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=02STEM,gradeTypeIndex=4th Nine Weeks Progress 4B,courseIndex=6625,calendarIndex=1,teacherIndex=Portillo&nbsp;Trejo^&nbsp;Dinora,dayCodeIndex=B - 05,locIndex=001">&nbsp;&nbsp;</a></td>
+</tr>
+<tr class="odd">   <td nowrap="" valign="middle" colspan="1" id="r7td6" datacolid="1^P1A" cellkey="sectionIndex=03,gradeTypeIndex=1st Nine Weeks Progress 1A,courseIndex=5896,calendarIndex=1,gradeIndex=100,teacherIndex=Caro^&nbsp;Martin,dayCodeIndex=B - 07,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r7td6','sectionIndex=03,gradeTypeIndex=1st Nine Weeks Progress 1A,courseIndex=5896,calendarIndex=1,gradeIndex=100,teacherIndex=Caro^&nbsp;Martin,dayCodeIndex=B - 07,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=03,gradeTypeIndex=1st Nine Weeks Progress 1A,courseIndex=5896,calendarIndex=1,gradeIndex=100,teacherIndex=Caro^&nbsp;Martin,dayCodeIndex=B - 07,locIndex=001">100</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r7td7" datacolid="1^P1B" cellkey="sectionIndex=03,gradeTypeIndex=1st Nine Weeks Progress 1B,courseIndex=5896,calendarIndex=1,gradeIndex=98,teacherIndex=Caro^&nbsp;Martin,dayCodeIndex=B - 07,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r7td7','sectionIndex=03,gradeTypeIndex=1st Nine Weeks Progress 1B,courseIndex=5896,calendarIndex=1,gradeIndex=98,teacherIndex=Caro^&nbsp;Martin,dayCodeIndex=B - 07,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=03,gradeTypeIndex=1st Nine Weeks Progress 1B,courseIndex=5896,calendarIndex=1,gradeIndex=98,teacherIndex=Caro^&nbsp;Martin,dayCodeIndex=B - 07,locIndex=001">98</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r7td8" datacolid="2^P2A" cellkey="sectionIndex=03,gradeTypeIndex=2nd Nine Weeks Progress 2A,courseIndex=5896,calendarIndex=1,gradeIndex=82,teacherIndex=Caro^&nbsp;Martin,dayCodeIndex=B - 07,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r7td8','sectionIndex=03,gradeTypeIndex=2nd Nine Weeks Progress 2A,courseIndex=5896,calendarIndex=1,gradeIndex=82,teacherIndex=Caro^&nbsp;Martin,dayCodeIndex=B - 07,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=03,gradeTypeIndex=2nd Nine Weeks Progress 2A,courseIndex=5896,calendarIndex=1,gradeIndex=82,teacherIndex=Caro^&nbsp;Martin,dayCodeIndex=B - 07,locIndex=001">82</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r7td9" datacolid="2^P2B^true" cellkey="sectionIndex=03,gradeTypeIndex=2nd Nine Weeks Progress 2B,courseIndex=5896,calendarIndex=1,teacherIndex=Caro^&nbsp;Martin,dayCodeIndex=B - 07,locIndex=001,gradeIndex=82" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r7td9','sectionIndex=03,gradeTypeIndex=2nd Nine Weeks Progress 2B,courseIndex=5896,calendarIndex=1,teacherIndex=Caro^&nbsp;Martin,dayCodeIndex=B - 07,locIndex=001,gradeIndex=82');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=03,gradeTypeIndex=2nd Nine Weeks Progress 2B,courseIndex=5896,calendarIndex=1,teacherIndex=Caro^&nbsp;Martin,dayCodeIndex=B - 07,locIndex=001,gradeIndex=82"><font color="red">82</font></a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r7td10" datacolid="3^P3A" cellkey="sectionIndex=03,gradeTypeIndex=3rd Nine Weeks Progress 3A,courseIndex=5896,calendarIndex=1,teacherIndex=Caro^&nbsp;Martin,dayCodeIndex=B - 07,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r7td10','sectionIndex=03,gradeTypeIndex=3rd Nine Weeks Progress 3A,courseIndex=5896,calendarIndex=1,teacherIndex=Caro^&nbsp;Martin,dayCodeIndex=B - 07,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=03,gradeTypeIndex=3rd Nine Weeks Progress 3A,courseIndex=5896,calendarIndex=1,teacherIndex=Caro^&nbsp;Martin,dayCodeIndex=B - 07,locIndex=001">&nbsp;&nbsp;</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r7td11" datacolid="3^P3B" cellkey="sectionIndex=03,gradeTypeIndex=3rd Nine Weeks Progress 3B,courseIndex=5896,calendarIndex=1,teacherIndex=Caro^&nbsp;Martin,dayCodeIndex=B - 07,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r7td11','sectionIndex=03,gradeTypeIndex=3rd Nine Weeks Progress 3B,courseIndex=5896,calendarIndex=1,teacherIndex=Caro^&nbsp;Martin,dayCodeIndex=B - 07,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=03,gradeTypeIndex=3rd Nine Weeks Progress 3B,courseIndex=5896,calendarIndex=1,teacherIndex=Caro^&nbsp;Martin,dayCodeIndex=B - 07,locIndex=001">&nbsp;&nbsp;</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r7td12" datacolid="4^P4A" cellkey="sectionIndex=03,gradeTypeIndex=4th Nine Weeks Progess 4A,courseIndex=5896,calendarIndex=1,teacherIndex=Caro^&nbsp;Martin,dayCodeIndex=B - 07,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r7td12','sectionIndex=03,gradeTypeIndex=4th Nine Weeks Progess 4A,courseIndex=5896,calendarIndex=1,teacherIndex=Caro^&nbsp;Martin,dayCodeIndex=B - 07,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=03,gradeTypeIndex=4th Nine Weeks Progess 4A,courseIndex=5896,calendarIndex=1,teacherIndex=Caro^&nbsp;Martin,dayCodeIndex=B - 07,locIndex=001">&nbsp;&nbsp;</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r7td13" datacolid="4^P4B" cellkey="sectionIndex=03,gradeTypeIndex=4th Nine Weeks Progress 4B,courseIndex=5896,calendarIndex=1,teacherIndex=Caro^&nbsp;Martin,dayCodeIndex=B - 07,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r7td13','sectionIndex=03,gradeTypeIndex=4th Nine Weeks Progress 4B,courseIndex=5896,calendarIndex=1,teacherIndex=Caro^&nbsp;Martin,dayCodeIndex=B - 07,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=03,gradeTypeIndex=4th Nine Weeks Progress 4B,courseIndex=5896,calendarIndex=1,teacherIndex=Caro^&nbsp;Martin,dayCodeIndex=B - 07,locIndex=001">&nbsp;&nbsp;</a></td>
+</tr>
+<tr class="even">   <td nowrap="" valign="middle" colspan="1" id="r8td6" datacolid="1^P1A" cellkey="sectionIndex=02,gradeTypeIndex=1st Nine Weeks Progress 1A,courseIndex=8401,calendarIndex=1,gradeIndex=100,teacherIndex=Bavarian^&nbsp;Sylvia,dayCodeIndex=B - 08,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r8td6','sectionIndex=02,gradeTypeIndex=1st Nine Weeks Progress 1A,courseIndex=8401,calendarIndex=1,gradeIndex=100,teacherIndex=Bavarian^&nbsp;Sylvia,dayCodeIndex=B - 08,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=02,gradeTypeIndex=1st Nine Weeks Progress 1A,courseIndex=8401,calendarIndex=1,gradeIndex=100,teacherIndex=Bavarian^&nbsp;Sylvia,dayCodeIndex=B - 08,locIndex=001">100</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r8td7" datacolid="1^P1B" cellkey="sectionIndex=02,gradeTypeIndex=1st Nine Weeks Progress 1B,courseIndex=8401,calendarIndex=1,gradeIndex=57,teacherIndex=Bavarian^&nbsp;Sylvia,dayCodeIndex=B - 08,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r8td7','sectionIndex=02,gradeTypeIndex=1st Nine Weeks Progress 1B,courseIndex=8401,calendarIndex=1,gradeIndex=57,teacherIndex=Bavarian^&nbsp;Sylvia,dayCodeIndex=B - 08,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=02,gradeTypeIndex=1st Nine Weeks Progress 1B,courseIndex=8401,calendarIndex=1,gradeIndex=57,teacherIndex=Bavarian^&nbsp;Sylvia,dayCodeIndex=B - 08,locIndex=001">57</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r8td8" datacolid="2^P2A" cellkey="sectionIndex=02,gradeTypeIndex=2nd Nine Weeks Progress 2A,courseIndex=8401,calendarIndex=1,gradeIndex=46,teacherIndex=Bavarian^&nbsp;Sylvia,dayCodeIndex=B - 08,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r8td8','sectionIndex=02,gradeTypeIndex=2nd Nine Weeks Progress 2A,courseIndex=8401,calendarIndex=1,gradeIndex=46,teacherIndex=Bavarian^&nbsp;Sylvia,dayCodeIndex=B - 08,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=02,gradeTypeIndex=2nd Nine Weeks Progress 2A,courseIndex=8401,calendarIndex=1,gradeIndex=46,teacherIndex=Bavarian^&nbsp;Sylvia,dayCodeIndex=B - 08,locIndex=001">46</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r8td9" datacolid="2^P2B^true" cellkey="sectionIndex=02,gradeTypeIndex=2nd Nine Weeks Progress 2B,courseIndex=8401,calendarIndex=1,teacherIndex=Bavarian^&nbsp;Sylvia,dayCodeIndex=B - 08,locIndex=001,gradeIndex=46" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r8td9','sectionIndex=02,gradeTypeIndex=2nd Nine Weeks Progress 2B,courseIndex=8401,calendarIndex=1,teacherIndex=Bavarian^&nbsp;Sylvia,dayCodeIndex=B - 08,locIndex=001,gradeIndex=46');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=02,gradeTypeIndex=2nd Nine Weeks Progress 2B,courseIndex=8401,calendarIndex=1,teacherIndex=Bavarian^&nbsp;Sylvia,dayCodeIndex=B - 08,locIndex=001,gradeIndex=46"><font color="red">46</font></a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r8td10" datacolid="3^P3A" cellkey="sectionIndex=02,gradeTypeIndex=3rd Nine Weeks Progress 3A,courseIndex=8401,calendarIndex=1,teacherIndex=Bavarian^&nbsp;Sylvia,dayCodeIndex=B - 08,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r8td10','sectionIndex=02,gradeTypeIndex=3rd Nine Weeks Progress 3A,courseIndex=8401,calendarIndex=1,teacherIndex=Bavarian^&nbsp;Sylvia,dayCodeIndex=B - 08,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=02,gradeTypeIndex=3rd Nine Weeks Progress 3A,courseIndex=8401,calendarIndex=1,teacherIndex=Bavarian^&nbsp;Sylvia,dayCodeIndex=B - 08,locIndex=001">&nbsp;&nbsp;</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r8td11" datacolid="3^P3B" cellkey="sectionIndex=02,gradeTypeIndex=3rd Nine Weeks Progress 3B,courseIndex=8401,calendarIndex=1,teacherIndex=Bavarian^&nbsp;Sylvia,dayCodeIndex=B - 08,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r8td11','sectionIndex=02,gradeTypeIndex=3rd Nine Weeks Progress 3B,courseIndex=8401,calendarIndex=1,teacherIndex=Bavarian^&nbsp;Sylvia,dayCodeIndex=B - 08,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=02,gradeTypeIndex=3rd Nine Weeks Progress 3B,courseIndex=8401,calendarIndex=1,teacherIndex=Bavarian^&nbsp;Sylvia,dayCodeIndex=B - 08,locIndex=001">&nbsp;&nbsp;</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r8td12" datacolid="4^P4A" cellkey="sectionIndex=02,gradeTypeIndex=4th Nine Weeks Progess 4A,courseIndex=8401,calendarIndex=1,teacherIndex=Bavarian^&nbsp;Sylvia,dayCodeIndex=B - 08,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r8td12','sectionIndex=02,gradeTypeIndex=4th Nine Weeks Progess 4A,courseIndex=8401,calendarIndex=1,teacherIndex=Bavarian^&nbsp;Sylvia,dayCodeIndex=B - 08,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=02,gradeTypeIndex=4th Nine Weeks Progess 4A,courseIndex=8401,calendarIndex=1,teacherIndex=Bavarian^&nbsp;Sylvia,dayCodeIndex=B - 08,locIndex=001">&nbsp;&nbsp;</a></td>
+   <td nowrap="" valign="middle" colspan="1" id="r8td13" datacolid="4^P4B" cellkey="sectionIndex=02,gradeTypeIndex=4th Nine Weeks Progress 4B,courseIndex=8401,calendarIndex=1,teacherIndex=Bavarian^&nbsp;Sylvia,dayCodeIndex=B - 08,locIndex=001" class="borderLeftGrading"><a href="#" class="linkStyle" onfocus="provideRowFunction('r8td13','sectionIndex=02,gradeTypeIndex=4th Nine Weeks Progress 4B,courseIndex=8401,calendarIndex=1,teacherIndex=Bavarian^&nbsp;Sylvia,dayCodeIndex=B - 08,locIndex=001');" onclick="if(window.onGridCellClick){onGridCellClick(this);}" id="sectionIndex=02,gradeTypeIndex=4th Nine Weeks Progress 4B,courseIndex=8401,calendarIndex=1,teacherIndex=Bavarian^&nbsp;Sylvia,dayCodeIndex=B - 08,locIndex=001">&nbsp;&nbsp;</a></td>
+</tr>
+</tbody></table></div></td>
+</tr>
+</tbody></table><script>setHighlightCurrentRow(false);</script></div>
+	</div>
+	<div>
+
+	<div id="pssClassNote" class="htmlFormattedText" style="display: none"></div>
+
+	<span style="color: red; font-size: 10pt">
+	<span class="label"><img class="labelImg" src="/common/images/iconBlank.gif" alt="iconBlank.gif" title="Mandatory">
+	  Note: Click on a grade to see the associated assignment grades. 
+	</span><span class="label"><img class="labelImg" src="/common/images/iconBlank.gif" alt="iconBlank.gif" title="Mandatory">
+	  Curr Avg Grade in red based on assign grades entered to date.
+	</span><span class="label"><img class="labelImg" src="/common/images/iconBlank.gif" alt="iconBlank.gif" title="Mandatory">
+	  These are not final grades. 'NG'=No grades entered at current.	
+	</span></span>
+	</div>
+	
+	<br>
+	<br>
+
+	<div class="buttonContainerCenter">
+	
+	<button type="button" id="displayComments" onclick="setActionForFormAndSubmit(&quot;PSSViewProgressCardsDisplayCommentsAction.do&quot;);" accesskey="d">Display Comments</button><button type="button" id="back" onclick="setActionForFormAndSubmit(&quot;ParentSelfServeSignOutAction.do&quot;);" accesskey="t"><span class="buttonIcon fa fa-mail-reply"></span>Sign Out</button></div>
+	</form><script type="text/javascript"> FocusHandler.register('SmartForm'); </script>
+<!-- Start of BodyTag.doEndTag() -->
+	  </div><!-- End of DIV folder -->
+</div><!-- End of DIV container -->
+<input id="dbgWin_NavBtn0" type="button" accesskey="+" style="width: 0px; height: 0px; border-width: 0px; display:none;" onclick="window.open('DumpConsole.jsp', '', 'status=1,scrollbars=1,resizable=1,width=800,height=600');" aria-label="Show Error Log">
+<input id="dbgWin_NavBtn1" type="button" accesskey="." style="width: 0px; height: 0px; border-width: 0px; display:none;" onclick="window.open('DumpConsole.jsp', '', 'status=1,scrollbars=1,resizable=1,width=800,height=600');" aria-label="Show Error Log">
+<input id="navBar_NavBtn" type="button" accesskey="n" style="width: 0px; height: 0px; border-width: 0px;" onclick="javascript:setFocusNav();" aria-label="Set Focus Navbar">
+<!-- End of BodyTag.doEndTag() Header -->
+<div id="bottomContainerDiv"><div id="pageDetailsCntSK"><span>Support code: <span id="supportCodeJspName">PSSStudentGradingProgressView.jsp</span></span></div></div><div id="alertDialog" class="hide" style="width: 400px; left: 0px; top: 0px;" tabindex="0"><div id="alertDialogHandle" class="dragHandle">Alert<a class="close" onclick="winList['alertDialog'].close()"><img src="/common/images/icons/close-white-24.png" alt="X"></a></div><div id="alertDialogContent" class="dragContent"><table align="center"><tbody><tr align="center"><td><div id="alertDialogText" align="center"></div></td></tr><tr align="center"><td><button id="alertDialogOk" onclick="winList['alertDialog'].close();return false;" accesskey="k"><span class="buttonIcon fa fa-thumbs-o-up"></span>O<u>k</u></button></td></tr></tbody></table></div></div><script language="JavaScript" type="text/javascript">Drag.init(document.getElementById("alertDialogHandle"), document.getElementById("alertDialog"));</script><div id="scanDialog" class="hide" style="width: 400px; left: 0px; top: 0px;" tabindex="0"><div id="scanDialogHandle" class="dragHandle">Scan<a class="close" onclick="winList['scanDialog'].close()"><img src="/common/images/icons/close-white-24.png" alt="X"></a></div><div id="scanDialogContent" class="dragContent">
+	<table class="simpleTable">
+		<tbody><tr>
+			<td colspan="3">Select Source:</td>
+		</tr>
+		<tr>
+			<td colspan="3"><select id="scanSourceSelect"></select></td>
+		</tr>
+		<tr>
+			<td><div class="teamsCheckbox" style="margin-right: 5px;"><input type="checkbox" id="scanShowUI"><label for="scanShowUI"></label></div>Show UI&nbsp;</td><td><div class="teamsCheckbox" style="margin-right: 5px;"><input type="checkbox" id="scanADF"><label for="scanADF"></label></div>AutoFeeder&nbsp;</td><td><div class="teamsCheckbox" style="margin-right: 5px;"><input type="checkbox" id="scanDuplex"><label for="scanDuplex"></label></div>Duplex</td>
+		</tr>
+		<tr>
+			<td>Pixel Type:</td><td colspan="2"><div class="teamsRadio" style="margin-right: 5px;"><input type="radio" id="BW" name="scanPixelType"><label for="BW"></label></div>B&amp;W <div class="teamsRadio" style="margin-right: 5px;"><input type="radio" id="Gray" name="scanPixelType"><label for="Gray"></label></div>Gray <div class="teamsRadio" style="margin-right: 5px;"><input type="radio" id="RGB" name="scanPixelType"><label for="RGB"></label></div>Color</td>
+		</tr>
+		<tr>
+			<td>Resolution:</td><td colspan="2"><select id="scanResolution"></select></td>
+		</tr>
+		<tr>
+			<td colspan="3"><div id="scanLog">&nbsp;</div></td>
+		</tr>
+		<tr>
+			<td colspan="3"><div id="scanErrorLog">&nbsp;</div></td>
+		</tr>
+	</tbody></table>
+	<div class="buttonContainerCenter">
+		<button id="scanPage" class="tdda-scan-page">Scan</button>
+		<button id="saveScannedPdf" class="tdda-save-pdf">Add As Attachment</button>
+		<button id="cancelScan" onclick="hidePopup('scanDialog');">Cancel</button>
+	</div> 
+</div></div><script language="JavaScript" type="text/javascript">Drag.init(document.getElementById("scanDialogHandle"), document.getElementById("scanDialog"));</script><div id="confirmDialog" class="hide" style="width: 400px; left: 0px; top: 0px;" tabindex="0"><div id="confirmDialogHandle" class="dragHandle">Confirmation<a class="close" onclick="winList['confirmDialog'].close()"><img src="/common/images/icons/close-white-24.png" alt="X"></a></div><div id="confirmDialogContent" class="dragContent"><form name="confirmDialogForm"><input type="hidden" name="submitForm" value=""><input type="hidden" name="enableWait" value=""></form><table align="center"><tbody><tr align="center"><td><div id="confirmDialogText" align="center"></div></td></tr><tr align="center"><td><button id="confirmDialogYes" onclick="submitForm(document.forms['confirmDialogForm'].submitForm.value,document.forms['confirmDialogForm'].enableWait.value);return true;" accesskey="y"><span class="buttonIcon fa fa-thumbs-o-up"></span><u>Y</u>es</button><button id="confirmDialogNo" onclick="winList['confirmDialog'].close();return false;" accesskey="n"><span class="buttonIcon fa fa-close"></span><u>N</u>o</button></td></tr></tbody></table></div></div><script language="JavaScript" type="text/javascript">Drag.init(document.getElementById("confirmDialogHandle"), document.getElementById("confirmDialog"));</script><div id="teamsPageFeedbackPopup" class="hide" style="width: 700px; left: 0px; top: 0px;" tabindex="0"><div id="teamsPageFeedbackPopupHandle" class="dragHandle">Send feedback to TEAMS by Prologic<a class="close" onclick="winList['teamsPageFeedbackPopup'].close()"><img src="/common/images/icons/close-white-24.png" alt="X"></a></div><div id="teamsPageFeedbackPopupContent" class="dragContent"><span id="teamsPageFeedbackSpanId"></span></div></div><script language="JavaScript" type="text/javascript">Drag.init(document.getElementById("teamsPageFeedbackPopupHandle"), document.getElementById("teamsPageFeedbackPopup"));</script>
+<form name="printPdfForm" target="_blank" method="post" action="https://cfb.teams.hosting:443/common/HTMLToPDFServlet">
+	<input type="hidden" name="printData" value="">
+	<input type="hidden" name="printLandscape" value="false">
+</form>
+<div id="displayDialog" class="hide" style="width: 400px; left: 0px; top: 0px;" tabindex="0"><div id="displayDialogHandle" class="dragHandle">Information<a class="close" onclick="winList['displayDialog'].close()"><img src="/common/images/icons/close-white-24.png" alt="X"></a></div><div id="displayDialogContent" class="dragContent"><div id="displayDialogText" align="center"></div><div id="waitDialogProgressBarContainer"><table><tbody><tr><td width="100%"><div id="waitDialogProgressBar"></div></td><td><div id="waitDialogProgressBarTxt"></div></td></tr></tbody></table></div></div></div><script language="JavaScript" type="text/javascript">Drag.init(document.getElementById("displayDialogHandle"), document.getElementById("displayDialog"));</script><div id="editorDialog" class="hide" style="width: 400px; left: 0px; top: 0px;" tabindex="0"><div id="editorDialogHandle" class="dragHandle">Editor<a class="close" onclick="winList['editorDialog'].close()"><img src="/common/images/icons/close-white-24.png" alt="X"></a></div><div id="editorDialogContent" class="dragContent"><input type="hidden" id="editorReferenceHolder" value=""><table align="center" width="100%"><tbody><tr align="center"><td><textarea id="editorTextArea" rows="13" onkeyup="TrackCount(this,'editorTextAreaCount',null)" onkeypress="LimitText(this,null)"></textarea></td></tr><tr align="right"><td id="counterHide" style="display:none;">Characters remaining: <input type="text" name="editorTextAreaCount" id="editorTextAreaCount" readonly="" disabled="" tabindex="0" size="5"> <font size="-2"><i id="editorTextAreaMaxDisp"> ( null max)</i><input type="hidden" name="editorTextAreaMax" readonly="" size="3" id="editorTextAreaMax"> </font></td></tr><tr align="center"><td><button id="editorDialogSave" onclick="document.getElementById(document.getElementById('editorReferenceHolder').value).value=document.getElementById('editorTextArea').value;saveFromEditorToTextArea();winList['editorDialog'].close();return false;" accesskey="v"><span class="buttonIcon fa fa-save"></span>Sa<u>v</u>e</button><button id="editorDialogCancel" onclick="winList['editorDialog'].close();return false;" accesskey="n"><span class="buttonIcon fa fa-close"></span>Ca<u>n</u>cel</button></td></tr></tbody></table></div></div><script language="JavaScript" type="text/javascript">Drag.init(document.getElementById("editorDialogHandle"), document.getElementById("editorDialog"),"resetEditor()");</script><!-- -----= Start of Footer =----- -->
+<script type="text/javascript">var RCMenuHandler = {
+	rcMenu : null,
+	init   : function (optionsArray, element)
+	         {
+	         	var observedElement = ( element !== undefined ? element : document.getElementsByTagName("body")[0] );	         
+	         	this.rcMenu = new RCMenu(optionsArray, observedElement);
+	         	
+	         	this.rcMenu.activate = function(evt)
+				{
+					RCMenu.activate(evt, RCMenuHandler.rcMenu);
+				}
+				
+				this.rcMenu.show = function(evt)
+				{
+					return RCMenu.show(evt, RCMenuHandler.rcMenu);
+				}
+				
+				this.rcMenu.mouseDown = function(evt)
+				{
+					return RCMenu.mouseDown(evt, RCMenuHandler.rcMenu);
+				}
+				
+				this.rcMenu.itemClicked = function(menuItem)
+				{
+					RCMenu.itemClicked(menuItem, RCMenuHandler.rcMenu);
+				}
+				
+				this.rcMenu.deactivate = function()
+				{
+					RCMenu.deactivate(RCMenuHandler.rcMenu);
+				}				
+	         	
+	         	RCMenuHandler.rcMenu.make("RCMenuHandler");
+	         	observedElement = null;
+	      },
+	 completeInit : function()
+			 {
+			   RCMenuHandler.init([new RCMenuItem("View Source", "viewSource()", ""),
+			   new RCMenuItem("Live Source", "dbg(document.documentElement.innerHTML,true);", ""),
+			   new RCMenuItem("Print", "if (shouldPrint()) {window.print() }else {alert('Please use local Print button instead');}", ""),
+			   new RCMenuItem("PrtScn Portrait", "if (shouldPrintScreen()) {printScreen(false);} else {alert('Please use local Print button instead');}", ""),
+			   new RCMenuItem("PrtScn Landscape", "if (shouldPrintScreen()) {printScreen(true);} else {alert('Please use local Print button instead');}", ""),
+			   new RCMenuItem("Enable DB Column Info", "if(typeof fieldNameMap == 'undefined') { dbColumnNamesForInputTags(); }", "")]);
+			 }
+}
+RCMenuInitFunctions.push(RCMenuHandler.completeInit);</script>
+	<div id="asyncBusyDiv" class="asyncBusy">Busy...</div>
+<script type="text/javascript">
+function logLatency() {
+  try {
+    $.post("/common/LatencyLogger", { host_ip: "192.168.182.160" , method: "GET", user_id: "508961", session: "87B1F7793BBA00CEEB00CE28136CE23D", sys_time: "1605191459064", action: "selfserve/PSSViewProgressCardsAction", client_ip: "47.184.19.31" } );
+  } catch ( e ) {
+    //alert(e);
+  }
+}
+</script>
+
+<div class="fullscreen" style="display: none;"></div><div id="RCMenuHandlerDiv" class="rcMenu" style="top: 83px; visibility: hidden; left: 1367px;"><a id="RCMenuHandlerItem0" href="#" clicktext="viewSource()" onclick="RCMenuHandler.rcMenu.itemClicked(this)">View Source</a><a id="RCMenuHandlerItem1" href="#" clicktext="dbg(document.documentElement.innerHTML,true);" onclick="RCMenuHandler.rcMenu.itemClicked(this)">Live Source</a><a id="RCMenuHandlerItem2" href="#" clicktext="if (shouldPrint()) {window.print() }else {alert('Please use local Print button instead');}" onclick="RCMenuHandler.rcMenu.itemClicked(this)">Print</a><a id="RCMenuHandlerItem3" href="#" clicktext="if (shouldPrintScreen()) {printScreen(false);} else {alert('Please use local Print button instead');}" onclick="RCMenuHandler.rcMenu.itemClicked(this)">PrtScn Portrait</a><a id="RCMenuHandlerItem4" href="#" clicktext="if (shouldPrintScreen()) {printScreen(true);} else {alert('Please use local Print button instead');}" onclick="RCMenuHandler.rcMenu.itemClicked(this)">PrtScn Landscape</a><a id="RCMenuHandlerItem5" href="#" clicktext="if(typeof fieldNameMap == 'undefined') { dbColumnNamesForInputTags(); }" onclick="RCMenuHandler.rcMenu.itemClicked(this)">Enable DB Column Info</a></div><a class="scrollToTop fa fa-chevron-up" style="cursor: pointer; display: none; position: fixed; right: 20px; bottom: 20px;"></a></body></html>
